@@ -12,9 +12,7 @@ const fetchTitles = async () => {
     const $ = cheerio.load(html);
 
     /*TODO
-1. put the models in each category
-2. get photos corresponding to each model
-3. write to json file
+1. get photos corresponding to each model
 */
 
     // $("#menu img").each(function () {
@@ -46,7 +44,8 @@ const fetchTitles = async () => {
           eachCategory++;
         }
       });
-    return jsonObject;
+    let data = JSON.stringify(jsonObject);
+    fs.writeFileSync("tamagotchi-models.json", data);
   } catch (error) {
     throw error;
   }
