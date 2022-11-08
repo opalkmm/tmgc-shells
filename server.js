@@ -1,5 +1,6 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
+const fs = require("fs");
 
 const fetchTitles = async () => {
   try {
@@ -11,28 +12,41 @@ const fetchTitles = async () => {
     const $ = cheerio.load(html);
 
     /*TODO
-1. extract the headers - connections, etc
- -- get alt of <img>
-2. put them in each category
-3. get photos corresponding to each model
-4. where and how to store
+1. put the models in each category
+2. get photos corresponding to each model
+3. write to json file
 */
 
-    //get alt of img for categories
-    // const category = [];
-    console.log("does this even run");
+    // $("#menu img").each(function () {
+    //   console.log($(this).attr("alt"));
+    // });
 
-    console.log($("img").attr("alt"));
+    //initialize an object to store the models in each category
+    const jsonObject = {
+      Vintage: [],
+      Connection: [],
+      Modern: [],
+      Other: []
+    };
 
-    // Create an array of all models
-    const models = [];
+    let eachCategory = 0;
 
-    // Find all models under div#middlemenu.a
     $("#middlemenu")
-      .find("a")
-      .each((_idx, el) => models.push($(el).text()));
+      .find("p")
+      .each((_idx, el) => {
+        if (!$(el).hasClass("pic")) {
+          const models = $(el).children("a");
 
-    return models;
+          models.each((_idx, el) => {
+            jsonObject[Object.keys(jsonObject)[eachCategory]].push(
+              $(el).text()
+            );
+          });
+        } else {
+          eachCategory++;
+        }
+      });
+    return jsonObject;
   } catch (error) {
     throw error;
   }
