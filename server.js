@@ -18,11 +18,11 @@ const fetchTitles = async () => {
     const $ = cheerio.load(html);
 
     //initialize an object to store the models in each category
-    const jsonObject = {
-      Vintage: {},
-      Connection: {},
-      Modern: {},
-      Other: {}
+    let jsonObject = {
+      Vintage: [],
+      Connection: [],
+      Modern: [],
+      Other: []
     };
 
     //const images = [];
@@ -32,13 +32,15 @@ const fetchTitles = async () => {
     $("#middlemenu")
       .find("p")
       .each((_idx, el) => {
+        console.log("IS IT: ", $(el).hasClass("pic"));
         if (!$(el).hasClass("pic")) {
           const models = $(el).children("a");
-          let modelName = $(el).text();
+
           let holdingArray = [];
 
           models.each(async (_idx, el) => {
             //make a call to the sub pages and get shell names and their image src links
+            let modelName = $(el).text();
             let eachModel = $(el).attr("href");
             let url = "http://www.tamashell.com/" + eachModel;
             //images.push($(el).attr("href"));
@@ -61,17 +63,28 @@ const fetchTitles = async () => {
                   });
                 }
               });
-            let thing = jsonObject[Object.keys(jsonObject)[eachCategory]];
+            //vintage, modern, etc
+            let category = jsonObject[Object.keys(jsonObject)[eachCategory]];
 
-            thing[modelName] = holdingArray;
-            console.log(thing);
-            jsonObject = thihng;
+            // console.log(modelName);
+            // console.log(category[modelName]);
+            //vintage{p1: []}
+            if (!!category !== undefined) {
+              category[`${modelName}`] = holdingArray;
+              let ready = await response.data;
+              if (ready !== undefined) {
+                eachCategory++;
+              }
+              return jsonObject;
+            }
           });
         } else {
           eachCategory++;
+          console.log("has pic class skip");
         }
       });
     // console.log(jsonObject);
+    console.log(typeof jsonObject, jsonObject);
 
     let data = JSON.stringify(jsonObject);
     fs.writeFileSync("tamagotchi-models.json", data);
@@ -82,6 +95,7 @@ const fetchTitles = async () => {
 
 // Print all models in the console
 fetchTitles().then((titles) => console.log(titles));
+// fetchTitles();
 
 /*
 const scrapeImages = function (callback) {
