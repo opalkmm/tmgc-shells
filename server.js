@@ -65,18 +65,19 @@ const fetchTitles = async () => {
               });
             //vintage, modern, etc
             let category = jsonObject[Object.keys(jsonObject)[eachCategory]];
+            // this a pointer that points within the jsonObject
 
-            // console.log(modelName);
+            // console.log(category);
             // console.log(category[modelName]);
             //vintage{p1: []}
             if (!!category !== undefined) {
               category[`${modelName}`] = holdingArray;
-              let ready = await response.data;
-              if (ready !== undefined) {
-                eachCategory++;
-              }
+
+              console.log(typeof jsonObject, jsonObject);
+
               return jsonObject;
             }
+            return jsonObject;
           });
         } else {
           eachCategory++;
@@ -84,7 +85,7 @@ const fetchTitles = async () => {
         }
       });
     // console.log(jsonObject);
-    console.log(typeof jsonObject, jsonObject);
+    // console.log(typeof jsonObject, jsonObject);
 
     let data = JSON.stringify(jsonObject);
     fs.writeFileSync("tamagotchi-models.json", data);
