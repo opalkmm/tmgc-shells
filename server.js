@@ -34,6 +34,12 @@ const fetchTitles = async () => {
       .each((_idx, el) => {
         console.log("IS IT: ", $(el).hasClass("pic"));
         if (!$(el).hasClass("pic")) {
+          const myPromise = new Promise((resolve, reject) => {
+            resolve;
+          });
+
+          myPromise.then(console.log("promise .then"));
+
           const models = $(el).children("a");
 
           let holdingArray = [];
@@ -63,6 +69,7 @@ const fetchTitles = async () => {
                   });
                 }
               });
+
             //vintage, modern, etc
             let category = jsonObject[Object.keys(jsonObject)[eachCategory]];
             // this a pointer that points within the jsonObject
@@ -80,12 +87,12 @@ const fetchTitles = async () => {
             return jsonObject;
           });
         } else {
-          eachCategory++;
+          // eachCategory++;
           console.log("has pic class skip");
         }
       });
     // console.log(jsonObject);
-    // console.log(typeof jsonObject, jsonObject);
+    console.log(typeof jsonObject, jsonObject);
 
     let data = JSON.stringify(jsonObject);
     fs.writeFileSync("tamagotchi-models.json", data);
@@ -146,3 +153,7 @@ const scrapeImages = function (callback) {
 module.exports = scrapeABAutosAndImports;
 
 */
+
+// PROBLEMS:
+// 1. it's not fully returning the jsonObject
+// 2. the incrementation of eachCategory needs to be AFTER each p chunk that isn't pic clas
