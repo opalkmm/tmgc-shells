@@ -44,7 +44,7 @@ const fetchTitles = async () => {
 
           let holdingArray = [];
 
-          models.each(async (_idx, el) => {
+          models.each(async (modelindex, el) => {
             //make a call to the sub pages and get shell names and their image src links
             let modelName = $(el).text();
             let eachModel = $(el).attr("href");
@@ -80,11 +80,16 @@ const fetchTitles = async () => {
             if (!!category !== undefined) {
               category[`${modelName}`] = holdingArray;
 
-              console.log(typeof jsonObject, jsonObject);
+              console.log("jsonObject", typeof jsonObject, jsonObject);
 
-              return jsonObject;
+              // return jsonObject;
             }
-            return jsonObject;
+            // return jsonObject;
+            if (modelindex === models.length - 1) {
+              console.log("last one here");
+              eachCategory++;
+              // at the very end this is where we actually write the data
+            }
           });
         } else {
           // eachCategory++;
