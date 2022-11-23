@@ -34,11 +34,11 @@ const fetchTitles = async () => {
       .each((_idx, el) => {
         console.log("IS IT: ", $(el).hasClass("pic"));
         if (!$(el).hasClass("pic")) {
-          const myPromise = new Promise((resolve, reject) => {
-            resolve;
-          });
+          // const myPromise = new Promise((resolve, reject) => {
+          //   resolve;
+          // });
 
-          myPromise.then(console.log("promise .then"));
+          // myPromise.then(console.log("promise .then"));
 
           const models = $(el).children("a");
 
@@ -52,8 +52,8 @@ const fetchTitles = async () => {
             //images.push($(el).attr("href"));
             const response = await axios.get(url);
             // Get the HTML code of the webpage
-            const html = response.data;
-            const $$ = cheerio.load(html);
+            const html = await response.data;
+            const $$ = cheerio.load(await html);
 
             //scrape the image links for the sub model pages
             $$("#content")
