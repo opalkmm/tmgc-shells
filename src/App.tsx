@@ -6,6 +6,8 @@ import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
 import ExpandMore from "@mui/icons-material/ExpandMore";
+import tamagotchimodels from "./tamagotchi-models.json";
+import generateCard from "./components/Cards/Cards";
 
 function App() {
   return (
@@ -21,6 +23,7 @@ function App() {
         </AccordionSummary>
         <AccordionDetails></AccordionDetails>
       </Accordion>
+      {generateCard()}
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
