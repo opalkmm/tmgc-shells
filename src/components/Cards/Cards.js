@@ -4,6 +4,8 @@ import Card from "@mui/material/Card";
 import CardActions from "@mui/material/CardActions";
 import CardContent from "@mui/material/CardContent";
 import Button from "@mui/material/Button";
+import Grid from "@mui/material/Grid";
+
 import Typography from "@mui/material/Typography";
 
 export default function generateCard() {
@@ -11,37 +13,42 @@ export default function generateCard() {
 
   //   const category = Object.keys(tamagotchimodels);
   //   const eachCate = category.forEach(category);
-  const descriptions = [
-    {
-      Vintage:
-        "The original franchise of Tamagotchi virtual pets. The first model was released in 1996 and the final model was released in 1999, making it the shortest-lived Tamagotchi franchise.",
-      Connection:
-        "The Tamagotchi Connection was the first Tamagotchi release to use Tamacom, an Infrared feature that connects two Tamagotchi pets, allowing them to play games, exchange presents, and give birth to offspring.",
-      Modern:
-        "All the color models, starting from Tamagotchi Plus Color release in 2008, up until present",
-      Other: "Other releases that do not correspond to the other categories"
-    }
-  ];
+  const descriptions = {
+    Vintage:
+      "The original franchise of Tamagotchi virtual pets. The first model was released in 1996 and the final model was released in 1999, making it the shortest-lived Tamagotchi franchise.",
+    Connection:
+      "The Tamagotchi Connection was the first Tamagotchi release to use Tamacom, an Infrared feature that connects two Tamagotchi pets, allowing them to play games, exchange presents, and give birth to offspring.",
+    Modern:
+      "All the color models, starting from Tamagotchi Plus Color release in 2008, up until present",
+    Other: "Other releases that do not correspond to the other categories"
+  };
 
   return (
     <div>
-      {Object.keys(tamagotchimodels).map((key, index) => {
-        return (
-          <Card sx={{ minWidth: 275 }}>
-            <CardContent>
-              <Typography variant="h5" component="div">
-                {key}
-              </Typography>
-              <Typography sx={{ mb: 1.5 }} color="text.secondary">
-                {descriptions.key}
-              </Typography>
-            </CardContent>
-            <CardActions>
-              <Button size="small">show more</Button>
-            </CardActions>
-          </Card>
-        );
-      })}
+      <Grid container justifyContent="center">
+        {Object.keys(tamagotchimodels).map((key, index) => {
+          {
+            /* console.log(descriptions.key); */
+          }
+          return (
+            <Grid item xs={3} key={key} spacing={2}>
+              <Card>
+                <CardContent>
+                  <Typography variant="h5" component="div">
+                    {key}
+                  </Typography>
+                  <Typography sx={{ mb: 1.5 }} color="text.secondary">
+                    {descriptions[key]}
+                  </Typography>
+                </CardContent>
+                <CardActions>
+                  <Button size="small">show more</Button>
+                </CardActions>
+              </Card>
+            </Grid>
+          );
+        })}
+      </Grid>
     </div>
   );
 }

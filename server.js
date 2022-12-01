@@ -32,6 +32,7 @@ const fetchTitles = async () => {
     $("#middlemenu")
       .find("p")
       .each((_idx, el) => {
+        let currentCat = "Vintage";
         console.log("IS IT: ", $(el).hasClass("pic"));
         if (!$(el).hasClass("pic")) {
           // const myPromise = new Promise((resolve, reject) => {
@@ -77,7 +78,10 @@ const fetchTitles = async () => {
             // console.log(category);
             // console.log(category[modelName]);
             //vintage{p1: []}
-            if (!!category !== undefined) {
+            if (
+              category !== undefined &&
+              !!category[`${modelName}`] !== undefined
+            ) {
               category[`${modelName}`] = holdingArray;
 
               console.log("jsonObject", typeof jsonObject, jsonObject);
@@ -87,20 +91,23 @@ const fetchTitles = async () => {
             // return jsonObject;
             if (modelindex === models.length - 1) {
               console.log("last one here");
+
               eachCategory++;
               // at the very end this is where we actually write the data
             }
           });
         } else {
+          currentCat = $(el).find("img").attr("alt");
+          console.log("changing cat to : ", currentCat);
           // eachCategory++;
           console.log("has pic class skip");
         }
       });
     // console.log(jsonObject);
-    console.log(typeof jsonObject, jsonObject);
+    // console.log(typeof jsonObject, jsonObject);
 
     let data = JSON.stringify(jsonObject);
-    fs.writeFileSync("tamagotchi-models.json", data);
+    fs.writeFileSync("src/tamagotchi-models.json", data);
   } catch (error) {
     throw error;
   }
