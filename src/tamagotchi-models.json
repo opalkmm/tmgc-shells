@@ -1,1 +1,3584 @@
-{"Vintage":[],"Connection":[],"Modern":[],"Other":[]}
+{
+  "Vintage": [
+    {
+      "Tamagotchi P1": [
+        {
+          "shellName": "Black & Red",
+          "href": "http://www.tamashell.com/i/shells/p1/black_red.jpg"
+        },
+        {
+          "shellName": "Blue w/ Pink",
+          "href": "http://www.tamashell.com/i/shells/p1/blue_pink.jpg"
+        },
+        {
+          "shellName": "Clear Blue",
+          "href": "http://www.tamashell.com/i/shells/p1/clearblue.jpg"
+        },
+        {
+          "shellName": "Aqua",
+          "href": "http://www.tamashell.com/i/shells/p1/aqua.jpg"
+        },
+        {
+          "shellName": "Green w/ White",
+          "href": "http://www.tamashell.com/i/shells/p1/green_white.jpg"
+        },
+        {
+          "shellName": "Green w/ Yellow",
+          "href": "http://www.tamashell.com/i/shells/p1/green.jpg"
+        },
+        {
+          "shellName": "Blue Numbers",
+          "href": "http://www.tamashell.com/i/shells/p1/numbers.jpg"
+        },
+        {
+          "shellName": "Mauve w/ Swirls",
+          "href": "http://www.tamashell.com/i/shells/p1/mauve_swirls.jpg"
+        },
+        {
+          "shellName": "",
+          "href": "http://www.tamashell.com/http://carleesi.tumblr.com/post/60924867183/started-up-my-p2"
+        },
+        {
+          "shellName": "Orange",
+          "href": "http://www.tamashell.com/i/shells/p1/orange.jpg"
+        },
+        {
+          "shellName": "Pink w/ Green",
+          "href": "http://www.tamashell.com/i/shells/p1/pink_green.jpg"
+        },
+        {
+          "shellName": "Pink w/ Numbers",
+          "href": "http://www.tamashell.com/i/shells/p1/pink_numbers.jpg"
+        },
+        {
+          "shellName": "Purple w/ Blue",
+          "href": "http://www.tamashell.com/i/shells/p1/purple_blue.jpg"
+        },
+        {
+          "shellName": "Purple w/ Magenta",
+          "href": "http://www.tamashell.com/i/shells/p1/purple.jpg"
+        },
+        {
+          "shellName": "Blue Clock",
+          "href": "http://www.tamashell.com/i/shells/p1/clock2.jpg"
+        },
+        {
+          "shellName": "Red Clock",
+          "href": "http://www.tamashell.com/i/shells/p1/clock3.jpg"
+        },
+        {
+          "shellName": "Magenta w/ Yellow",
+          "href": "http://www.tamashell.com/i/shells/p1/magenta.jpg"
+        },
+        {
+          "shellName": "Teal",
+          "href": "http://www.tamashell.com/i/shells/p1/teal.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/p1/white.jpg"
+        },
+        {
+          "shellName": "White w/ Blue",
+          "href": "http://www.tamashell.com/i/shells/p1/whiteblue.jpg"
+        },
+        {
+          "shellName": "White w/ Red",
+          "href": "http://www.tamashell.com/i/shells/p1/white_red.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Blue",
+          "href": "http://www.tamashell.com/i/shells/p1/yellow_blue.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Orange",
+          "href": "http://www.tamashell.com/i/shells/p1/yellow.jpg"
+        },
+        {
+          "shellName": "Teal w/ Purple",
+          "href": "http://www.tamashell.com/i/shells/p1/tealpurple.jpg"
+        },
+        {
+          "shellName": "White Swirls",
+          "href": "http://www.tamashell.com/i/shells/p1/whiteswirls.jpg"
+        },
+        {
+          "shellName": "Clear Red Clock",
+          "href": "http://www.tamashell.com/i/shells/p1/clock.jpg"
+        },
+        {
+          "shellName": "Gold",
+          "href": "http://www.tamashell.com/i/shells/p1/gold.jpg"
+        },
+        {
+          "shellName": "Silver",
+          "href": "http://www.tamashell.com/i/shells/p1/silver.jpg"
+        },
+        {
+          "shellName": "Australia",
+          "href": "http://www.tamashell.com/i/shells/p1/australia.jpg"
+        },
+        {
+          "shellName": "Indonesia",
+          "href": "http://www.tamashell.com/i/shells/p1/indonesia.jpg"
+        },
+        {
+          "shellName": "Malaysia",
+          "href": "http://www.tamashell.com/i/shells/p1/malaysia.jpg"
+        },
+        {
+          "shellName": "Phillipines",
+          "href": "http://www.tamashell.com/i/shells/p1/phillipines.jpg"
+        },
+        {
+          "shellName": "Singapore",
+          "href": "http://www.tamashell.com/i/shells/p1/singapore.jpg"
+        },
+        {
+          "shellName": "Thailand",
+          "href": "http://www.tamashell.com/i/shells/p1/thailand.jpg"
+        },
+        {
+          "shellName": "Hong Kong",
+          "href": "http://www.tamashell.com/i/shells/p1/hongkong.jpg"
+        },
+        {
+          "shellName": "Japan Airlines",
+          "href": "http://www.tamashell.com/i/shells/p1/jal.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi P2": [
+        {
+          "shellName": "Black",
+          "href": "http://www.tamashell.com/i/shells/p2/black.jpg"
+        },
+        {
+          "shellName": "Blue w/ Stripes",
+          "href": "http://www.tamashell.com/i/shells/p2/blie_stripes.jpg"
+        },
+        {
+          "shellName": "Blue w/ Black",
+          "href": "http://www.tamashell.com/i/shells/p2/blue.jpg"
+        },
+        {
+          "shellName": "Blue w/ Silver",
+          "href": "http://www.tamashell.com/i/shells/p2/blue_silver.jpg"
+        },
+        {
+          "shellName": "Clear Pink",
+          "href": "http://www.tamashell.com/i/shells/p2/clearpink.jpg"
+        },
+        {
+          "shellName": "Clear Yellow",
+          "href": "http://www.tamashell.com/i/shells/p2/clearyellow.jpg"
+        },
+        {
+          "shellName": "Gold w/ Black",
+          "href": "http://www.tamashell.com/i/shells/p2/gold_black.jpg"
+        },
+        {
+          "shellName": "Green & Red",
+          "href": "http://www.tamashell.com/i/shells/p2/green_red.jpg"
+        },
+        {
+          "shellName": "Aqua",
+          "href": "http://www.tamashell.com/i/shells/p2/aqua.jpg"
+        },
+        {
+          "shellName": "Orange & Black",
+          "href": "http://www.tamashell.com/i/shells/p2/orange_black.jpg"
+        },
+        {
+          "shellName": "Orange w/ Green",
+          "href": "http://www.tamashell.com/i/shells/p2/orange_green.jpg"
+        },
+        {
+          "shellName": "Red w/ Black",
+          "href": "http://www.tamashell.com/i/shells/p2/red_black.jpg"
+        },
+        {
+          "shellName": "Red w/ White",
+          "href": "http://www.tamashell.com/i/shells/p2/red.jpg"
+        },
+        {
+          "shellName": "Silver",
+          "href": "http://www.tamashell.com/i/shells/p2/silver.jpg"
+        },
+        {
+          "shellName": "White w/ Characters",
+          "href": "http://www.tamashell.com/i/shells/p2/whitechar.jpg"
+        },
+        {
+          "shellName": "White w/ Gray",
+          "href": "http://www.tamashell.com/i/shells/p2/whitegray.jpg"
+        },
+        {
+          "shellName": "White w/ Green",
+          "href": "http://www.tamashell.com/i/shells/p2/white_green.jpg"
+        },
+        {
+          "shellName": "White w/ Pink Characters",
+          "href": "http://www.tamashell.com/i/shells/p2/white_magenta.jpg"
+        },
+        {
+          "shellName": "White w/ Swirls",
+          "href": "http://www.tamashell.com/i/shells/p2/white_swirls.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Stripes",
+          "href": "http://www.tamashell.com/i/shells/p2/yellowtiger.jpg"
+        },
+        {
+          "shellName": "Blue Spacehip",
+          "href": "http://www.tamashell.com/i/shells/p2/bluespaceship.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Characters",
+          "href": "http://www.tamashell.com/i/shells/p2/yellowchar.jpg"
+        },
+        {
+          "shellName": "Camo",
+          "href": "http://www.tamashell.com/i/shells/p2/camo.jpg"
+        },
+        {
+          "shellName": "Red w/ Words",
+          "href": "http://www.tamashell.com/i/shells/p2/redwords.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Orange",
+          "href": "http://www.tamashell.com/i/shells/p2/yellow.jpg"
+        },
+        {
+          "shellName": "Clear Green",
+          "href": "http://www.tamashell.com/i/shells/p2/cleargreen.jpg"
+        },
+        {
+          "shellName": "Clear White",
+          "href": "http://www.tamashell.com/i/shells/p2/clearwhite.jpg"
+        },
+        {
+          "shellName": "Beige",
+          "href": "http://www.tamashell.com/i/shells/p2/beige.jpg"
+        },
+        {
+          "shellName": "Ice Blue",
+          "href": "http://www.tamashell.com/i/shells/p2/tcyan.jpg"
+        },
+        {
+          "shellName": "White w/ Blue",
+          "href": "http://www.tamashell.com/i/shells/p2/whiteblue.jpg"
+        },
+        {
+          "shellName": "China",
+          "href": "http://www.tamashell.com/i/shells/p2/china.jpg"
+        },
+        {
+          "shellName": "China (2)",
+          "href": "http://www.tamashell.com/i/shells/p2/china2.jpg"
+        },
+        {
+          "shellName": "India",
+          "href": "http://www.tamashell.com/i/shells/p2/india.jpg"
+        },
+        {
+          "shellName": "New Zealand",
+          "href": "http://www.tamashell.com/i/shells/p2/newzealand.jpg"
+        },
+        {
+          "shellName": "Vietnam",
+          "href": "http://www.tamashell.com/i/shells/p2/vietnam.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi Angel": [
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/angel/en_blue.jpg"
+        },
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/angel/en_pink.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/angel/en_white.jpg"
+        },
+        {
+          "shellName": "Yellow",
+          "href": "http://www.tamashell.com/i/shells/angel/en_yellow.jpg"
+        },
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/angel/ja_blue.jpg"
+        },
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/angel/ja_pink.png"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/angel/ja_white.jpg"
+        },
+        {
+          "shellName": "Pink Hanabi",
+          "href": "http://www.tamashell.com/i/shells/angel/hanabi.jpg"
+        }
+      ]
+    },
+    {
+      "Mesutchi & Osutchi": [
+        {
+          "shellName": "Mesutchi Pink",
+          "href": "http://www.tamashell.com/i/shells/mesuosu/pinkblue.jpg"
+        },
+        {
+          "shellName": "Mesutchi Orange",
+          "href": "http://www.tamashell.com/i/shells/mesuosu/orangegreen.jpg"
+        },
+        {
+          "shellName": "Mesutchi Clear",
+          "href": "http://www.tamashell.com/i/shells/mesuosu/clearsmoke.jpg"
+        },
+        {
+          "shellName": "Mesutchi T-Orange",
+          "href": "http://www.tamashell.com/i/shells/mesuosu/corangecgreen.jpg"
+        },
+        {
+          "shellName": "Mesutchi Yellow",
+          "href": "http://www.tamashell.com/i/shells/mesuosu/yellowwhite.jpg"
+        },
+        {
+          "shellName": "Osutchi Blue",
+          "href": "http://www.tamashell.com/i/shells/mesuosu/pinkblue.jpg"
+        },
+        {
+          "shellName": "Osutchi Green",
+          "href": "http://www.tamashell.com/i/shells/mesuosu/orangegreen.jpg"
+        },
+        {
+          "shellName": "Osutchi Smoke",
+          "href": "http://www.tamashell.com/i/shells/mesuosu/clearsmoke.jpg"
+        },
+        {
+          "shellName": "Osutchi T-Green",
+          "href": "http://www.tamashell.com/i/shells/mesuosu/corangecgreen.jpg"
+        },
+        {
+          "shellName": "Osutchi White",
+          "href": "http://www.tamashell.com/i/shells/mesuosu/yellowwhite.jpg"
+        },
+        {
+          "shellName": "Mesutchi Birthday",
+          "href": "http://www.tamashell.com/i/shells/mesuosu/mo_special.jpg"
+        },
+        {
+          "shellName": "Osutchi Birthday",
+          "href": "http://www.tamashell.com/i/shells/mesuosu/mo_special.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi Garden": [
+        {
+          "shellName": "Brown",
+          "href": "http://www.tamashell.com/i/shells/garden/ja_brown.jpg"
+        },
+        {
+          "shellName": "Leaves",
+          "href": "http://www.tamashell.com/i/shells/garden/ja_leaves.jpg"
+        },
+        {
+          "shellName": "",
+          "href": "http://www.tamashell.com/http://carleesi.tumblr.com/post/76027253183/my-morino-didnt-die-this-time-o"
+        },
+        {
+          "shellName": "Vines",
+          "href": "http://www.tamashell.com/i/shells/garden/ja_vines.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/garden/ja_white.jpg"
+        },
+        {
+          "shellName": "Purple Leaves",
+          "href": "http://www.tamashell.com/i/shells/garden/garden.png"
+        },
+        {
+          "shellName": "Red Leaves",
+          "href": "http://www.tamashell.com/i/shells/garden/garden.png"
+        },
+        {
+          "shellName": "White Leaves",
+          "href": "http://www.tamashell.com/i/shells/garden/garden.png"
+        },
+        {
+          "shellName": "Yellow Leaves",
+          "href": "http://www.tamashell.com/i/shells/garden/garden.png"
+        }
+      ]
+    },
+    {
+      "Tamagotchi Ocean": [
+        {
+          "shellName": "Blue w/ Bubbles",
+          "href": "http://www.tamashell.com/i/shells/ocean/en_bubbles.jpg"
+        },
+        {
+          "shellName": "White w/ Seaweed",
+          "href": "http://www.tamashell.com/i/shells/ocean/en_cool.jpg"
+        },
+        {
+          "shellName": "L-Blue w/ Characters",
+          "href": "http://www.tamashell.com/i/shells/ocean/en_light.jpg"
+        },
+        {
+          "shellName": "White w/ Creatures",
+          "href": "http://www.tamashell.com/i/shells/ocean/en_sealife.jpg"
+        },
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/ocean/blue.jpg"
+        },
+        {
+          "shellName": "Clear",
+          "href": "http://www.tamashell.com/i/shells/ocean/clear.jpg"
+        },
+        {
+          "shellName": "Clear Orange",
+          "href": "http://www.tamashell.com/i/shells/ocean/orange.jpg"
+        },
+        {
+          "shellName": "Clear Purple",
+          "href": "http://www.tamashell.com/i/shells/ocean/purple.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi Monster": [
+        {
+          "shellName": "here",
+          "href": "http://www.tamashell.com/i/TamagotchiMonster.zip"
+        },
+        {
+          "shellName": "Black",
+          "href": "http://www.tamashell.com/i/shells/monster/black.jpg"
+        },
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/monster/pink.jpg"
+        },
+        {
+          "shellName": "Purple",
+          "href": "http://www.tamashell.com/i/shells/monster/purple.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/monster/white.jpg"
+        }
+      ]
+    },
+    {
+      "Yasashii Tamagotchi": [
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/yasa/blue.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/yasa/white.jpg"
+        },
+        {
+          "shellName": "Yellow",
+          "href": "http://www.tamashell.com/i/shells/yasa/yellow.jpg"
+        }
+      ]
+    },
+    {
+      "Santaclautchi": [
+        {
+          "shellName": "Green",
+          "href": "http://www.tamashell.com/i/shells/santa/green.jpg"
+        },
+        {
+          "shellName": "Red",
+          "href": "http://www.tamashell.com/i/shells/santa/red.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/santa/white.jpg"
+        }
+      ]
+    },
+    {
+      "Mothra": [
+        {
+          "shellName": "Blue Stripes",
+          "href": "http://www.tamashell.com/i/shells/mothra/mothra_blue.jpg"
+        },
+        {
+          "shellName": "",
+          "href": "http://www.tamashell.com/http://carleesi.tumblr.com/post/78097091263"
+        },
+        {
+          "shellName": "Green Stripes",
+          "href": "http://www.tamashell.com/i/shells/mothra/mothra_green.jpg"
+        },
+        {
+          "shellName": "T-Blue w/ Blue Stripes",
+          "href": "http://www.tamashell.com/i/shells/mothra/mothra_clear.jpg"
+        }
+      ]
+    },
+    {
+      "TamaOtch": [
+        {
+          "shellName": "TamaOtch",
+          "href": "http://www.tamashell.com/i/shells/tamao/tamaotch.jpg"
+        }
+      ]
+    },
+    {
+      "Genjintchi": [
+        {
+          "shellName": "Genjintchi",
+          "href": "http://www.tamashell.com/i/shells/genjintchi/genjitchi.jpg"
+        }
+      ]
+    }
+  ],
+  "Connection": [
+    {
+      "Connection V1 / Plus": [
+        {
+          "shellName": "Orange w/ Purple",
+          "href": "http://www.tamashell.com/i/shells/v1/orange_purple.jpg"
+        },
+        {
+          "shellName": "Green w/ Orange",
+          "href": "http://www.tamashell.com/i/shells/v1/green_orange.jpg"
+        },
+        {
+          "shellName": "Magenta w/ Swirls",
+          "href": "http://www.tamashell.com/i/shells/v1/magenta_swirls.jpg"
+        },
+        {
+          "shellName": "T-Blue w/ Pink",
+          "href": "http://www.tamashell.com/i/shells/v1/clearblue_pink.jpg"
+        },
+        {
+          "shellName": "Lavander w/ Balls",
+          "href": "http://www.tamashell.com/i/shells/v1/lavender_balls.jpg"
+        },
+        {
+          "shellName": "T-Orange w/ Yellow",
+          "href": "http://www.tamashell.com/i/shells/v1/clear_orange.jpg"
+        },
+        {
+          "shellName": "T-Red w/ White",
+          "href": "http://www.tamashell.com/i/shells/v1/clearred.jpg"
+        },
+        {
+          "shellName": "T-Yellow w/ Blue",
+          "href": "http://www.tamashell.com/i/shells/v1/clearyellow_blue.jpg"
+        },
+        {
+          "shellName": "Lavender w/ Purple",
+          "href": "http://www.tamashell.com/i/shells/v1/lavender_solid.png"
+        },
+        {
+          "shellName": "L-Blue w/ Yellow",
+          "href": "http://www.tamashell.com/i/shells/v1/lightblue_yellow.jpg"
+        },
+        {
+          "shellName": "Magenta w/ Stars",
+          "href": "http://www.tamashell.com/i/shells/v1/magenta_stars.jpg"
+        },
+        {
+          "shellName": "Pink w/ Hearts",
+          "href": "http://www.tamashell.com/i/shells/v1/pink_hearts.jpg"
+        },
+        {
+          "shellName": "Pink w/ Orange",
+          "href": "http://www.tamashell.com/i/shells/v1/pink_orange.jpg"
+        },
+        {
+          "shellName": "Pink w/ Yellow",
+          "href": "http://www.tamashell.com/i/shells/v1/pink_yellow.jpg"
+        },
+        {
+          "shellName": "Purple w/ Lavender",
+          "href": "http://www.tamashell.com/i/shells/v1/purple_lavender.jpg"
+        },
+        {
+          "shellName": "\"Purple Pearl\"",
+          "href": "http://www.tamashell.com/i/shells/v1/purple_shiny.jpg"
+        },
+        {
+          "shellName": "White w/ Yellow",
+          "href": "http://www.tamashell.com/i/shells/v1/white_yellow.jpg"
+        },
+        {
+          "shellName": "\"Murasaki\"",
+          "href": "http://www.tamashell.com/i/shells/v1/murasaki.jpg"
+        },
+        {
+          "shellName": "Blue w/ Spots",
+          "href": "http://www.tamashell.com/i/shells/v2/blue_spots.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Arrows",
+          "href": "http://www.tamashell.com/i/shells/v2/yellow_arrows.jpg"
+        },
+        {
+          "shellName": "Hanatchi Blue",
+          "href": "http://www.tamashell.com/i/shells/v2/bluehanatchi.jpg"
+        },
+        {
+          "shellName": "Green Clover",
+          "href": "http://www.tamashell.com/i/shells/v1/greenclover.jpg"
+        },
+        {
+          "shellName": "Orange",
+          "href": "http://www.tamashell.com/i/shells/v1/orange.jpg"
+        },
+        {
+          "shellName": "Silver Stars",
+          "href": "http://www.tamashell.com/i/shells/v1/silverstars.jpg"
+        },
+        {
+          "shellName": "Shareholder (Blue)",
+          "href": "http://www.tamashell.com/i/shells/v1/shareholders.jpg"
+        },
+        {
+          "shellName": "Shareholder (White)",
+          "href": "http://www.tamashell.com/i/shells/v1/shareholders.jpg"
+        },
+        {
+          "shellName": "Jassie",
+          "href": "http://www.tamashell.com/i/shells/v1/jassie.jpg"
+        }
+      ]
+    },
+    {
+      "Connection V2": [
+        {
+          "shellName": "Beige w/ Butterflies",
+          "href": "http://www.tamashell.com/i/shells/v2/beige_butterflies.jpg"
+        },
+        {
+          "shellName": "Blue w/ Candy",
+          "href": "http://www.tamashell.com/i/shells/v2/blue_candy.jpg"
+        },
+        {
+          "shellName": "Solid Purple",
+          "href": "http://www.tamashell.com/i/shells/v2/solidpurple.jpg"
+        },
+        {
+          "shellName": "Lavender w/ Splotch",
+          "href": "http://www.tamashell.com/i/shells/v2/lavender_splotch.jpg"
+        },
+        {
+          "shellName": "L-Blue w/ Flowers",
+          "href": "http://www.tamashell.com/i/shells/v2/lightblue_flowers.jpg"
+        },
+        {
+          "shellName": "L-Blue Tropical",
+          "href": "http://www.tamashell.com/i/shells/v2/lightblue_tropical.png"
+        },
+        {
+          "shellName": "Magenta w/ Flowers",
+          "href": "http://www.tamashell.com/i/shells/v2/magenta_flowers.jpg"
+        },
+        {
+          "shellName": "Magenta w/ Hibiscus",
+          "href": "http://www.tamashell.com/i/shells/v2/magenta_hibiscus.jpg"
+        },
+        {
+          "shellName": "Green Camo",
+          "href": "http://www.tamashell.com/i/shells/v2/olive_camo.jpg"
+        },
+        {
+          "shellName": "Pink w/ Lipstick",
+          "href": "http://www.tamashell.com/i/shells/v2/pink_lipstick.jpg"
+        },
+        {
+          "shellName": "Pink w/ Stripes",
+          "href": "http://www.tamashell.com/i/shells/v2/pink_stripes.jpg"
+        },
+        {
+          "shellName": "Purple w/ Stars",
+          "href": "http://www.tamashell.com/i/shells/v2/purple_stars.jpg"
+        },
+        {
+          "shellName": "Red w/ Jellybeans",
+          "href": "http://www.tamashell.com/i/shells/v2/red_jellybeans.jpg"
+        },
+        {
+          "shellName": "Red w/ Hearts",
+          "href": "http://www.tamashell.com/i/shells/v2/redorange_hearts.jpg"
+        },
+        {
+          "shellName": "White Camo",
+          "href": "http://www.tamashell.com/i/shells/v2/white_camo.jpg"
+        },
+        {
+          "shellName": "TF Green w/ Stars",
+          "href": "http://www.tamashell.com/i/shells/v2/green_stars.jpg"
+        },
+        {
+          "shellName": "TF Orange w/ Stars",
+          "href": "http://www.tamashell.com/i/shells/v2/orange_stars.jpg"
+        },
+        {
+          "shellName": "TF Pink w/ Hearts",
+          "href": "http://www.tamashell.com/i/shells/v2/pink_hearts.jpg"
+        },
+        {
+          "shellName": "TF Purple w/ Hearts",
+          "href": "http://www.tamashell.com/i/shells/v2/purple_hearts.jpg"
+        },
+        {
+          "shellName": "White w/ Candies",
+          "href": "http://www.tamashell.com/i/shells/v2/white_candies.jpg"
+        },
+        {
+          "shellName": "TF Camo Pink",
+          "href": "http://www.tamashell.com/i/shells/v2/truefriends_camo1.jpg"
+        },
+        {
+          "shellName": "TF Camo Purple",
+          "href": "http://www.tamashell.com/i/shells/v2/truefriends_camo2.jpg"
+        },
+        {
+          "shellName": "TF Flowers Orange",
+          "href": "http://www.tamashell.com/i/shells/v2/truefriends_flowers.jpg"
+        },
+        {
+          "shellName": "TF Flowers Yellow",
+          "href": "http://www.tamashell.com/i/shells/v2/truefriends_flowers.jpg"
+        },
+        {
+          "shellName": "White w/ Hearts",
+          "href": "http://www.tamashell.com/i/shells/v2/white_hearts.jpg"
+        },
+        {
+          "shellName": "TF Stars Blue",
+          "href": "http://www.tamashell.com/i/shells/v2/truefriends_stars3.jpg"
+        },
+        {
+          "shellName": "TF Stars White",
+          "href": "http://www.tamashell.com/i/shells/v2/truefriends_stars3.jpg"
+        },
+        {
+          "shellName": "White w/ Scribble",
+          "href": "http://www.tamashell.com/i/shells/v2/white_scribble.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Flowers",
+          "href": "http://www.tamashell.com/i/shells/v2/yellow_flowers.jpg"
+        },
+        {
+          "shellName": "Gray w/ Black",
+          "href": "http://www.tamashell.com/i/shells/v2/gray_black.jpg"
+        },
+        {
+          "shellName": "Gold w/ Black",
+          "href": "http://www.tamashell.com/i/shells/v2/gold_black.jpg"
+        },
+        {
+          "shellName": "Red w/ Sparkles",
+          "href": "http://www.tamashell.com/i/shells/v2/red_sparkles.jpg"
+        },
+        {
+          "shellName": "Beige Scribble",
+          "href": "http://www.tamashell.com/i/shells/v2/beige_scribble.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Stars",
+          "href": "http://www.tamashell.com/i/shells/v2/yellow_stars.jpg"
+        },
+        {
+          "shellName": "T-Purple",
+          "href": "http://www.tamashell.com/i/shells/v2/clearpurple.jpg"
+        },
+        {
+          "shellName": "Peach Kisses",
+          "href": "http://www.tamashell.com/i/shells/v2/peachkiss.jpg"
+        },
+        {
+          "shellName": "Pink Butterflies",
+          "href": "http://www.tamashell.com/i/shells/v2/pinkbutterflies.jpg"
+        },
+        {
+          "shellName": "T-Blue",
+          "href": "http://www.tamashell.com/i/shells/v2/tblue.jpg"
+        },
+        {
+          "shellName": "Blue Bubbles",
+          "href": "http://www.tamashell.com/i/shells/v2/bluebpinks.jpg"
+        },
+        {
+          "shellName": "Pink Stars",
+          "href": "http://www.tamashell.com/i/shells/v2/bluebpinks.jpg"
+        },
+        {
+          "shellName": "T-Orange",
+          "href": "http://www.tamashell.com/i/shells/v2/clearorange.jpg"
+        },
+        {
+          "shellName": "T-Yellow",
+          "href": "http://www.tamashell.com/i/shells/v2/clearyellow.jpg"
+        },
+        {
+          "shellName": "Red Arrows",
+          "href": "http://www.tamashell.com/i/shells/v2/redarrows.jpg"
+        },
+        {
+          "shellName": "Silver",
+          "href": "http://www.tamashell.com/i/shells/v2/silver.jpg"
+        },
+        {
+          "shellName": "Pink w/ Stars",
+          "href": "http://www.tamashell.com/i/shells/v2/pstars.jpg"
+        },
+        {
+          "shellName": "BFF Gold",
+          "href": "http://www.tamashell.com/i/shells/v2/bffgoldblack.jpg"
+        },
+        {
+          "shellName": "BFF Black",
+          "href": "http://www.tamashell.com/i/shells/v2/bffgoldblack.jpg"
+        },
+        {
+          "shellName": "Pink Bubbles",
+          "href": "http://www.tamashell.com/i/shells/v2/pinkbubbles.jpg"
+        },
+        {
+          "shellName": "Red w/ Spots",
+          "href": "http://www.tamashell.com/i/shells/v2/rspots.jpg"
+        },
+        {
+          "shellName": "Puma",
+          "href": "http://www.tamashell.com/i/shells/v2/puma.jpg"
+        }
+      ]
+    },
+    {
+      "Connection V3": [
+        {
+          "shellName": "K-Tama page",
+          "href": "http://www.tamashell.com/ktama.php"
+        },
+        {
+          "shellName": "Black w/ Nihon Kanji",
+          "href": "http://www.tamashell.com/i/shells/v3/black_japan.jpg"
+        },
+        {
+          "shellName": "T-Black w/ Magenta",
+          "href": "http://www.tamashell.com/i/shells/v3/black_magenta.jpg"
+        },
+        {
+          "shellName": "Blue w/ Butterflies",
+          "href": "http://www.tamashell.com/i/shells/v3/blue_butterflies.jpg"
+        },
+        {
+          "shellName": "Blue w/ Constellations",
+          "href": "http://www.tamashell.com/i/shells/v3/blue_stars.jpg"
+        },
+        {
+          "shellName": "T-Magenta w/ Pink",
+          "href": "http://www.tamashell.com/i/shells/v3/clearmagenta_pink.jpg"
+        },
+        {
+          "shellName": "T-Yellow w/ Blue",
+          "href": "http://www.tamashell.com/i/shells/v3/clearyellow_blue.jpg"
+        },
+        {
+          "shellName": "Blossoms",
+          "href": "http://www.tamashell.com/i/shells/v3/blossoms.jpg"
+        },
+        {
+          "shellName": "Gray w/ Grafitti",
+          "href": "http://www.tamashell.com/i/shells/v3/gray_grafitti.jpg"
+        },
+        {
+          "shellName": "Green Reptile",
+          "href": "http://www.tamashell.com/i/shells/v3/green_reptile.jpg"
+        },
+        {
+          "shellName": "L-Blue w/ Balls",
+          "href": "http://www.tamashell.com/i/shells/v3/lightblue_balls.jpg"
+        },
+        {
+          "shellName": "L-Blue w/ Flowers",
+          "href": "http://www.tamashell.com/i/shells/v3/lightblue_flowers.jpg"
+        },
+        {
+          "shellName": "Blue w/ Surf",
+          "href": "http://www.tamashell.com/i/shells/v3/surf.jpg"
+        },
+        {
+          "shellName": "L-Green w/ Flowers",
+          "href": "http://www.tamashell.com/i/shells/v3/lightgreen_flowers.jpg"
+        },
+        {
+          "shellName": "Orange w/ Flowers",
+          "href": "http://www.tamashell.com/i/shells/v3/orange_flowers.jpg"
+        },
+        {
+          "shellName": "Pink w/ Angel Hearts",
+          "href": "http://www.tamashell.com/i/shells/v3/pink_angelhearts.jpg"
+        },
+        {
+          "shellName": "Pink w/ Bows",
+          "href": "http://www.tamashell.com/i/shells/v3/pink_bows.jpg"
+        },
+        {
+          "shellName": "Pink w/ Cherries",
+          "href": "http://www.tamashell.com/i/shells/v3/pink_cherries.jpg"
+        },
+        {
+          "shellName": "Pink w/ Ice Cream",
+          "href": "http://www.tamashell.com/i/shells/v3/pink_icecream.jpg"
+        },
+        {
+          "shellName": "Red w/ Stars",
+          "href": "http://www.tamashell.com/i/shells/v3/red_stars.jpg"
+        },
+        {
+          "shellName": "Silver w/ Black",
+          "href": "http://www.tamashell.com/i/shells/v3/silver_black.jpg"
+        },
+        {
+          "shellName": "Teal w/ Frogs",
+          "href": "http://www.tamashell.com/i/shells/v3/teal_frogs.jpg"
+        },
+        {
+          "shellName": "White Camo",
+          "href": "http://www.tamashell.com/i/shells/v3/white_camo2.jpg"
+        },
+        {
+          "shellName": "White Zebra",
+          "href": "http://www.tamashell.com/i/shells/v3/white_zebra.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Dots",
+          "href": "http://www.tamashell.com/i/shells/v3/yellow_dots.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Stars",
+          "href": "http://www.tamashell.com/i/shells/v3/yellow_stars.jpg"
+        },
+        {
+          "shellName": "White w/ Clovers",
+          "href": "http://www.tamashell.com/i/shells/v3/white_clover.jpg"
+        },
+        {
+          "shellName": "Union Jack",
+          "href": "http://www.tamashell.com/i/shells/v3/unionjack.jpg"
+        },
+        {
+          "shellName": "T-Blue w/ Soda",
+          "href": "http://www.tamashell.com/i/shells/v3/clearblue_soda.jpg"
+        },
+        {
+          "shellName": "T-Blue w/ TMGC",
+          "href": "http://www.tamashell.com/i/shells/v3/clearbluetmgc.jpg"
+        },
+        {
+          "shellName": "Cow",
+          "href": "http://www.tamashell.com/i/shells/v3/cow.jpg"
+        },
+        {
+          "shellName": "Green Swirls",
+          "href": "http://www.tamashell.com/i/shells/v3/greenswirls.jpg"
+        },
+        {
+          "shellName": "Hawaiian",
+          "href": "http://www.tamashell.com/i/shells/v3/hawaiian.jpg"
+        },
+        {
+          "shellName": "Pink Hearts",
+          "href": "http://www.tamashell.com/i/shells/v3/pinkhearts.jpg"
+        },
+        {
+          "shellName": "White Flowers",
+          "href": "http://www.tamashell.com/i/shells/v3/whiteflowers.jpg"
+        },
+        {
+          "shellName": "Black Spark",
+          "href": "http://www.tamashell.com/i/shells/v3/blackspark.jpg"
+        },
+        {
+          "shellName": "06",
+          "href": "http://www.tamashell.com/i/shells/v3/06.jpg"
+        },
+        {
+          "shellName": "Balloons",
+          "href": "http://www.tamashell.com/i/shells/v3/balloons.jpg"
+        },
+        {
+          "shellName": "Big Flowers",
+          "href": "http://www.tamashell.com/i/shells/v3/bigflowers.jpg"
+        },
+        {
+          "shellName": "Dolphins",
+          "href": "http://www.tamashell.com/i/shells/v3/dolphins.jpg"
+        },
+        {
+          "shellName": "Lavender Meadow",
+          "href": "http://www.tamashell.com/i/shells/v3/lavendermeadow.jpg"
+        },
+        {
+          "shellName": "Mint Leaves",
+          "href": "http://www.tamashell.com/i/shells/v3/mintleaves.jpg"
+        },
+        {
+          "shellName": "Pink Spots",
+          "href": "http://www.tamashell.com/i/shells/v3/pinkspots.jpg"
+        },
+        {
+          "shellName": "Checkered Flag",
+          "href": "http://www.tamashell.com/i/shells/v3/raceflag.jpg"
+        },
+        {
+          "shellName": "Rainbow",
+          "href": "http://www.tamashell.com/i/shells/v3/rainbow.jpg"
+        },
+        {
+          "shellName": "Red Wings",
+          "href": "http://www.tamashell.com/i/shells/v3/redwings.jpg"
+        },
+        {
+          "shellName": "Sneaker",
+          "href": "http://www.tamashell.com/i/shells/v3/sneaker.jpg"
+        },
+        {
+          "shellName": "Swirly Hearts",
+          "href": "http://www.tamashell.com/i/shells/v3/swirlyhearts.jpg"
+        },
+        {
+          "shellName": "Winter Treats",
+          "href": "http://www.tamashell.com/i/shells/v3/wintertreats.jpg"
+        },
+        {
+          "shellName": "Yellow Flowers",
+          "href": "http://www.tamashell.com/i/shells/v3/yellowflowers.jpg"
+        },
+        {
+          "shellName": "Yellow Stars",
+          "href": "http://www.tamashell.com/i/shells/v3/yellowstars.jpg"
+        },
+        {
+          "shellName": "Constellations",
+          "href": "http://www.tamashell.com/i/shells/v3/constellation.png"
+        },
+        {
+          "shellName": "Lavendar w/ Fish",
+          "href": "http://www.tamashell.com/i/shells/v3/lfish.jpg"
+        },
+        {
+          "shellName": "Gold",
+          "href": "http://www.tamashell.com/i/shells/v3/gold_gray.jpg"
+        }
+      ]
+    },
+    {
+      "Connection V4": [
+        {
+          "shellName": "Entama page",
+          "href": "http://www.tamashell.com/entama.php"
+        },
+        {
+          "shellName": "Black w/ Lightning",
+          "href": "http://www.tamashell.com/i/shells/v4/black_lightning.jpg"
+        },
+        {
+          "shellName": "Blue w/ Flames",
+          "href": "http://www.tamashell.com/i/shells/v4/blue_flames.jpg"
+        },
+        {
+          "shellName": "Shattered Ice",
+          "href": "http://www.tamashell.com/i/shells/v4/blue_shatteredice.jpg"
+        },
+        {
+          "shellName": "Blue w/ Swirls",
+          "href": "http://www.tamashell.com/i/shells/v4/blue_swirl.jpg"
+        },
+        {
+          "shellName": "Blue w/ Waves",
+          "href": "http://www.tamashell.com/i/shells/v4/blue_waves.jpg"
+        },
+        {
+          "shellName": "T-White w/ Blue",
+          "href": "http://www.tamashell.com/i/shells/v4/clearwhite_blue.jpg"
+        },
+        {
+          "shellName": "Cream Camo",
+          "href": "http://www.tamashell.com/i/shells/v4/cream_camo.jpg"
+        },
+        {
+          "shellName": "Glow-in-the-Dark",
+          "href": "http://www.tamashell.com/i/shells/v4/glow-in-the-dark.jpg"
+        },
+        {
+          "shellName": "Gray Punk",
+          "href": "http://www.tamashell.com/i/shells/v4/gray_punk.jpg"
+        },
+        {
+          "shellName": "L-Blue w/ Sunflowers",
+          "href": "http://www.tamashell.com/i/shells/v4/lightblue_sunflowers.jpg"
+        },
+        {
+          "shellName": "L-Gray w/ Flowers",
+          "href": "http://www.tamashell.com/i/shells/v4/lightgreen_flowers.jpg"
+        },
+        {
+          "shellName": "Rainbow Plaid",
+          "href": "http://www.tamashell.com/i/shells/v4/magenta_plaid.jpg"
+        },
+        {
+          "shellName": "Purple Flowers",
+          "href": "http://www.tamashell.com/i/shells/v4/purpleflowers.jpg"
+        },
+        {
+          "shellName": "Pink Sakura",
+          "href": "http://www.tamashell.com/i/shells/v4/pink_sakura.jpg"
+        },
+        {
+          "shellName": "Blue Outer Space",
+          "href": "http://www.tamashell.com/i/shells/v4/blue_space.jpg"
+        },
+        {
+          "shellName": "Pink w/ Splats",
+          "href": "http://www.tamashell.com/i/shells/v4/pink_splats.jpg"
+        },
+        {
+          "shellName": "Pink w/ Stripes/a>",
+          "href": "http://www.tamashell.com/i/shells/v4/pink_stripes.jpg"
+        },
+        {
+          "shellName": "Red w/ Origami",
+          "href": "http://www.tamashell.com/i/shells/v4/redorange_origami.jpg"
+        },
+        {
+          "shellName": "Salmon w/ Hearts",
+          "href": "http://www.tamashell.com/i/shells/v4/salmon_hearts.jpg"
+        },
+        {
+          "shellName": "Silver w/ Maroon",
+          "href": "http://www.tamashell.com/i/shells/v4/silver_maroon.jpg"
+        },
+        {
+          "shellName": "\"Digital Yellow\"",
+          "href": "http://www.tamashell.com/i/shells/v4/digitalyellow.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Red Sun",
+          "href": "http://www.tamashell.com/i/shells/v4/yellow_redsun.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Balls",
+          "href": "http://www.tamashell.com/i/shells/v4/yelloworange_balls.jpg"
+        },
+        {
+          "shellName": "White w/ Red & Blue",
+          "href": "http://www.tamashell.com/i/shells/v4/white_redblue.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Stars",
+          "href": "http://www.tamashell.com/i/shells/v4/yellowstars.jpg"
+        },
+        {
+          "shellName": "T-Pink",
+          "href": "http://www.tamashell.com/i/shells/v4/clearpink.jpg"
+        },
+        {
+          "shellName": "Colored Spots",
+          "href": "http://www.tamashell.com/i/shells/v4/colorspots.jpg"
+        },
+        {
+          "shellName": "\"Beads Red\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_beadsred.jpg"
+        },
+        {
+          "shellName": "Leaves & Jacks",
+          "href": "http://www.tamashell.com/i/shells/v4/jacks.jpg"
+        },
+        {
+          "shellName": "Pink Cloud",
+          "href": "http://www.tamashell.com/i/shells/v4/pinkcloud.jpg"
+        },
+        {
+          "shellName": "Purple Snow",
+          "href": "http://www.tamashell.com/i/shells/v4/purplesnow.jpg"
+        },
+        {
+          "shellName": "Magenta Shine",
+          "href": "http://www.tamashell.com/i/shells/v4/shine.jpg"
+        },
+        {
+          "shellName": "Sky",
+          "href": "http://www.tamashell.com/i/shells/v4/sky.jpg"
+        },
+        {
+          "shellName": "Splash",
+          "href": "http://www.tamashell.com/i/shells/v4/splash.jpg"
+        },
+        {
+          "shellName": "T-Blue w/ Stars",
+          "href": "http://www.tamashell.com/i/shells/v4/stars.jpg"
+        },
+        {
+          "shellName": "White Jacks",
+          "href": "http://www.tamashell.com/i/shells/v4/whitejacks.jpg"
+        },
+        {
+          "shellName": "Gears",
+          "href": "http://www.tamashell.com/i/shells/v4/gears.jpg"
+        },
+        {
+          "shellName": "Chrome Gold",
+          "href": "http://www.tamashell.com/i/shells/v4/gold.jpg"
+        }
+      ]
+    },
+    {
+      "Connection V4.5": [
+        {
+          "shellName": "Uratama page",
+          "href": "http://www.tamashell.com/uratama.php"
+        },
+        {
+          "shellName": "Black w/ Flames",
+          "href": "http://www.tamashell.com/i/shells/v45/black_flames.jpg"
+        },
+        {
+          "shellName": "Black Reptile",
+          "href": "http://www.tamashell.com/i/shells/v45/black_reptile.jpg"
+        },
+        {
+          "shellName": "Blue Globe",
+          "href": "http://www.tamashell.com/i/shells/v45/blue_globe.jpg"
+        },
+        {
+          "shellName": "Blue w/ Hibiscus",
+          "href": "http://www.tamashell.com/i/shells/v45/blue_hibiscus.jpg"
+        },
+        {
+          "shellName": "T-Yellow Swirl",
+          "href": "http://www.tamashell.com/i/shells/v45/clearyellow_swirl.jpg"
+        },
+        {
+          "shellName": "Autumn Leaves",
+          "href": "http://www.tamashell.com/i/shells/v45/autumnleaves.jpg"
+        },
+        {
+          "shellName": "Green Swirls",
+          "href": "http://www.tamashell.com/i/shells/v45/green_swirls.jpg"
+        },
+        {
+          "shellName": "Leopard Print",
+          "href": "http://www.tamashell.com/i/shells/v45/leopard_red.jpg"
+        },
+        {
+          "shellName": "\"Chocolate Argyle\"",
+          "href": "http://www.tamashell.com/i/shells/v45/pink_argyle.jpg"
+        },
+        {
+          "shellName": "\"Stained Glass\"",
+          "href": "http://www.tamashell.com/i/shells/v45/pink_stainedglass.jpg"
+        },
+        {
+          "shellName": "T-Purple w/ Pink",
+          "href": "http://www.tamashell.com/i/shells/v45/purple_pink.jpg"
+        },
+        {
+          "shellName": "Purple w/ Puzzle",
+          "href": "http://www.tamashell.com/i/shells/v45/purple_puzzle.jpg"
+        },
+        {
+          "shellName": "Purple Tubes",
+          "href": "http://www.tamashell.com/i/shells/v45/purple_tubes.jpg"
+        },
+        {
+          "shellName": "Sprinkles",
+          "href": "http://www.tamashell.com/i/shells/v45/sprinkles.jpg"
+        },
+        {
+          "shellName": "Red w/ Leaves",
+          "href": "http://www.tamashell.com/i/shells/v45/red_leaves.jpg"
+        },
+        {
+          "shellName": "Tiger",
+          "href": "http://www.tamashell.com/i/shells/v45/red_tiger.jpg"
+        },
+        {
+          "shellName": "Butterflies & Hibiscus",
+          "href": "http://www.tamashell.com/i/shells/v45/salmon_hibiscus.jpg"
+        },
+        {
+          "shellName": "Peacock",
+          "href": "http://www.tamashell.com/i/shells/v45/teal_peacock.png"
+        },
+        {
+          "shellName": "White w/ Tribal",
+          "href": "http://www.tamashell.com/i/shells/v45/white_tribal.jpg"
+        },
+        {
+          "shellName": "Yellow w/ Balls",
+          "href": "http://www.tamashell.com/i/shells/v45/yellow_balls.jpg"
+        },
+        {
+          "shellName": "Blue w/ Characters",
+          "href": "http://www.tamashell.com/i/shells/v45/bluechar.jpg"
+        },
+        {
+          "shellName": "White w/ Flowers",
+          "href": "http://www.tamashell.com/i/shells/v45/whiteflowers.jpg"
+        },
+        {
+          "shellName": "Orange w/ Stars",
+          "href": "http://www.tamashell.com/i/shells/v4/orange_stars.jpg"
+        },
+        {
+          "shellName": "Bubbles",
+          "href": "http://www.tamashell.com/i/shells/v4/bubbles.jpg"
+        },
+        {
+          "shellName": "Black Flare",
+          "href": "http://www.tamashell.com/i/shells/v4/flare.jpg"
+        }
+      ]
+    },
+    {
+      "Connection V5": [
+        {
+          "shellName": "let me know",
+          "href": "http://www.tamashell.com/helpout.php"
+        },
+        {
+          "shellName": "\"Blue Abstract\"",
+          "href": "http://www.tamashell.com/i/shells/v5/blue_abstract.jpg"
+        },
+        {
+          "shellName": "\"Tama House\"",
+          "href": "http://www.tamashell.com/i/shells/v5/tama_house.jpg"
+        },
+        {
+          "shellName": "Black w/ Gold",
+          "href": "http://www.tamashell.com/i/shells/v5/black_gold.jpg"
+        },
+        {
+          "shellName": "\"Family Mametchi\"",
+          "href": "http://www.tamashell.com/i/shells/v5/familymametchi.jpg"
+        },
+        {
+          "shellName": "\"Groovey Time\"",
+          "href": "http://www.tamashell.com/i/shells/v5/groovey_time.jpg"
+        },
+        {
+          "shellName": "Blue Ocean",
+          "href": "http://www.tamashell.com/i/shells/v5/blue_ocean.jpg"
+        },
+        {
+          "shellName": "Pink Star",
+          "href": "http://www.tamashell.com/i/shells/v5/pink_star.jpg"
+        },
+        {
+          "shellName": "Purple w/ Rockets",
+          "href": "http://www.tamashell.com/i/shells/v5/purple_rockets.jpg"
+        },
+        {
+          "shellName": "Cookie Dough",
+          "href": "http://www.tamashell.com/i/shells/v5/tan_cookie.jpg"
+        },
+        {
+          "shellName": "Red Gemstone",
+          "href": "http://www.tamashell.com/i/shells/v5/red_sparks.jpg"
+        },
+        {
+          "shellName": "\"TMGC 5 Orange\"",
+          "href": "http://www.tamashell.com/i/shells/v5/tmgc5orange.jpg"
+        },
+        {
+          "shellName": "\"Oil Paint\"",
+          "href": "http://www.tamashell.com/i/shells/v5/oilpaint.jpg"
+        },
+        {
+          "shellName": "Disco",
+          "href": "http://www.tamashell.com/i/shells/v5/disco.jpg"
+        },
+        {
+          "shellName": "Blossoms",
+          "href": "http://www.tamashell.com/i/shells/v5/blossoms.jpg"
+        },
+        {
+          "shellName": "\"TMGC 5\"",
+          "href": "http://www.tamashell.com/i/shells/v5/tmgc5.jpg"
+        },
+        {
+          "shellName": "Blue w/ Red",
+          "href": "http://www.tamashell.com/i/shells/v5/bluered.jpg"
+        },
+        {
+          "shellName": "Cotton Candy",
+          "href": "http://www.tamashell.com/i/shells/v5/cottoncandy.jpg"
+        },
+        {
+          "shellName": "The Earth",
+          "href": "http://www.tamashell.com/i/shells/v5/earth.jpg"
+        },
+        {
+          "shellName": "Green w/ Hearts",
+          "href": "http://www.tamashell.com/i/shells/v5/greenhearts.jpg"
+        },
+        {
+          "shellName": "\"Love\"",
+          "href": "http://www.tamashell.com/i/shells/v5/love.jpg"
+        },
+        {
+          "shellName": "Music Notes",
+          "href": "http://www.tamashell.com/i/shells/v5/singasong.jpg"
+        },
+        {
+          "shellName": "\"Pink Pattern\"",
+          "href": "http://www.tamashell.com/i/shells/v5/pinkpattern.jpg"
+        },
+        {
+          "shellName": "Red Design",
+          "href": "http://www.tamashell.com/i/shells/v5/redichigotchi.jpg"
+        },
+        {
+          "shellName": "\"Memetchi & Kuchipatchi\"",
+          "href": "http://www.tamashell.com/i/shells/v5/memetchinkuchimatchi.jpg"
+        },
+        {
+          "shellName": "\"Pet\"",
+          "href": "http://www.tamashell.com/i/shells/v5/pet.jpg"
+        },
+        {
+          "shellName": "\"Purple Cloud\"",
+          "href": "http://www.tamashell.com/i/shells/v5/purplecloud.jpg"
+        },
+        {
+          "shellName": "Confetti",
+          "href": "http://www.tamashell.com/i/shells/v5/confetti.jpg"
+        },
+        {
+          "shellName": "Uniqlo",
+          "href": "http://www.tamashell.com/i/shells/v5/uniqlo.jpg"
+        },
+        {
+          "shellName": "Jewelry",
+          "href": "http://www.tamashell.com/i/shells/v5/jewelry.jpg"
+        },
+        {
+          "shellName": "Tama Depa",
+          "href": "http://www.tamashell.com/i/shells/v5/depa.jpg"
+        },
+        {
+          "shellName": "\"V5 Purple\"",
+          "href": "http://www.tamashell.com/i/shells/v5/v5purple.jpg"
+        },
+        {
+          "shellName": "\"Note\"",
+          "href": "http://www.tamashell.com/i/shells/v5/note.jpg"
+        },
+        {
+          "shellName": "\"Violet\"",
+          "href": "http://www.tamashell.com/i/shells/v5/violet.jpg"
+        },
+        {
+          "shellName": "\"Felt-Tip Pen\"",
+          "href": "http://www.tamashell.com/i/shells/v5/felttippen.jpg"
+        },
+        {
+          "shellName": "Pink w/ Food",
+          "href": "http://www.tamashell.com/i/shells/v5/food.jpg"
+        },
+        {
+          "shellName": "\"Mametchi WOW\"",
+          "href": "http://www.tamashell.com/i/shells/v5/mametchiwow.jpg"
+        },
+        {
+          "shellName": "\"Mametchi Family\"",
+          "href": "http://www.tamashell.com/i/shells/v5/mametchifamily.jpg"
+        },
+        {
+          "shellName": "\"Brown\"",
+          "href": "http://www.tamashell.com/i/shells/v5/brown.jpg"
+        },
+        {
+          "shellName": "\"Black Note\"",
+          "href": "http://www.tamashell.com/i/shells/v5/blacknote.jpg"
+        },
+        {
+          "shellName": "\"Butterfly\"",
+          "href": "http://www.tamashell.com/i/shells/v5/butterfly.jpg"
+        },
+        {
+          "shellName": "\"Celebration\"",
+          "href": "http://www.tamashell.com/i/shells/v5/celebration.jpg"
+        },
+        {
+          "shellName": "\"Cool\"",
+          "href": "http://www.tamashell.com/i/shells/v5/cool.jpg"
+        },
+        {
+          "shellName": "\"Deep Blue Sparkle\"",
+          "href": "http://www.tamashell.com/i/shells/v5/deepbluesparkle.jpg"
+        },
+        {
+          "shellName": "\"Family Memetchi\"",
+          "href": "http://www.tamashell.com/i/shells/v5/familymemetchi.jpg"
+        },
+        {
+          "shellName": "\"Green & Purple\"",
+          "href": "http://www.tamashell.com/i/shells/v5/greennpurple.jpg"
+        },
+        {
+          "shellName": "\"Jewellery\"",
+          "href": "http://www.tamashell.com/i/shells/v5/jewellery.jpg"
+        },
+        {
+          "shellName": "\"Purple Floral\"",
+          "href": "http://www.tamashell.com/i/shells/v5/purplefloral.jpg"
+        },
+        {
+          "shellName": "\"Ripple\"",
+          "href": "http://www.tamashell.com/i/shells/v5/ripple.jpg"
+        },
+        {
+          "shellName": "\"Sparkle\"",
+          "href": "http://www.tamashell.com/i/shells/v5/sparkle.jpg"
+        },
+        {
+          "shellName": "\"Spiral\"",
+          "href": "http://www.tamashell.com/i/shells/v5/spiral.jpg"
+        },
+        {
+          "shellName": "\"Star\"",
+          "href": "http://www.tamashell.com/i/shells/v5/star.jpg"
+        },
+        {
+          "shellName": "T-Red Sparkles",
+          "href": "http://www.tamashell.com/i/shells/v5/redsparkles.jpg"
+        }
+      ]
+    },
+    {
+      "Connection V5.5": [
+        {
+          "shellName": "Red Runway",
+          "href": "http://www.tamashell.com/i/shells/v55/red_runway.jpg"
+        },
+        {
+          "shellName": "L-Blue w/ Star",
+          "href": "http://www.tamashell.com/i/shells/v55/lblue_star.jpg"
+        },
+        {
+          "shellName": "",
+          "href": "http://www.tamashell.com/http://carleesi.tumblr.com/post/64683363851/collection-part-2-v2-v3-v4-jinsei-v4-5"
+        },
+        {
+          "shellName": "Movie Night",
+          "href": "http://www.tamashell.com/i/shells/v5/blue_movies.jpg"
+        },
+        {
+          "shellName": "Purple w/ Sunglasses",
+          "href": "http://www.tamashell.com/i/shells/v55/purple_sunglasses.jpg"
+        },
+        {
+          "shellName": "\"Paparazzi\"",
+          "href": "http://www.tamashell.com/i/shells/v5/silver_camera.jpg"
+        },
+        {
+          "shellName": "Royal Roses",
+          "href": "http://www.tamashell.com/i/shells/v55/r_roses.jpg"
+        },
+        {
+          "shellName": "Royal Yellow",
+          "href": "http://www.tamashell.com/i/shells/v55/r_yellow.jpg"
+        },
+        {
+          "shellName": "Royal Tropical Night",
+          "href": "http://www.tamashell.com/i/shells/v55/tropical_night.jpg"
+        },
+        {
+          "shellName": "Hollywood",
+          "href": "http://www.tamashell.com/i/shells/v5/hollywood.jpg"
+        },
+        {
+          "shellName": "Movies",
+          "href": "http://www.tamashell.com/i/shells/v5/movies.jpg"
+        },
+        {
+          "shellName": "Blue w/ Scribble",
+          "href": "http://www.tamashell.com/i/shells/v5/scribble.jpg"
+        },
+        {
+          "shellName": "Red w/ Stars",
+          "href": "http://www.tamashell.com/i/shells/v5/red_stars.jpg"
+        },
+        {
+          "shellName": "Mametchi & Memetchi",
+          "href": "http://www.tamashell.com/i/shells/v5/metchi.jpg"
+        },
+        {
+          "shellName": "Purple Crowns",
+          "href": "http://www.tamashell.com/i/shells/v55/purplecrowns.jpg"
+        },
+        {
+          "shellName": "",
+          "href": "http://www.tamashell.com/http://jmeow-tama.tumblr.com/post/93547286000"
+        },
+        {
+          "shellName": "Floral",
+          "href": "http://www.tamashell.com/i/shells/v5/floral.jpg"
+        },
+        {
+          "shellName": "\"Family Photos\"",
+          "href": "http://www.tamashell.com/i/shells/v5/familyphotos.jpg"
+        },
+        {
+          "shellName": "Sunset",
+          "href": "http://www.tamashell.com/i/shells/v5/sunset.jpg"
+        }
+      ]
+    },
+    {
+      "Connection V6": [
+        {
+          "shellName": "\"Disco Rave\"",
+          "href": "http://www.tamashell.com/i/shells/v6/black_disco.jpg"
+        },
+        {
+          "shellName": "\"Sound Blast\"",
+          "href": "http://www.tamashell.com/i/shells/v6/blue_radiowaves.png"
+        },
+        {
+          "shellName": "\"Techno Groove\"",
+          "href": "http://www.tamashell.com/i/shells/v6/gray_headphones.jpg"
+        },
+        {
+          "shellName": "\"Feel the Beat\"",
+          "href": "http://www.tamashell.com/i/shells/v6/green_drums.jpg"
+        },
+        {
+          "shellName": "\"Rock City\"",
+          "href": "http://www.tamashell.com/i/shells/v6/lightblue_music.jpg"
+        },
+        {
+          "shellName": "\"Equalizer\"",
+          "href": "http://www.tamashell.com/i/shells/v6/equalizer.jpg"
+        },
+        {
+          "shellName": "\"Rising Star\"",
+          "href": "http://www.tamashell.com/i/shells/v6/rising_star.jpg"
+        },
+        {
+          "shellName": "Orange w/ Purple",
+          "href": "http://www.tamashell.com/i/shells/v6/orange_purple.jpg"
+        },
+        {
+          "shellName": "\"Glam Rock\"",
+          "href": "http://www.tamashell.com/i/shells/v6/glamrock.jpg"
+        },
+        {
+          "shellName": "\"Scarlet Melody\"",
+          "href": "http://www.tamashell.com/i/shells/v6/scarlet_melody.jpg"
+        },
+        {
+          "shellName": "Red w/ Music Notes",
+          "href": "http://www.tamashell.com/i/shells/v6/red_music.jpg"
+        },
+        {
+          "shellName": "\"Symphony\"",
+          "href": "http://www.tamashell.com/i/shells/v6/symphony.jpg"
+        },
+        {
+          "shellName": "\"Idol Dream\"",
+          "href": "http://www.tamashell.com/i/shells/v6/idol_dream.jpg"
+        },
+        {
+          "shellName": "\"Pink Lullaby\"",
+          "href": "http://www.tamashell.com/i/shells/v6/pink_lullaby.jpg"
+        },
+        {
+          "shellName": "\"Red Rockstar\"",
+          "href": "http://www.tamashell.com/i/shells/v6/red_rockstar.jpg"
+        },
+        {
+          "shellName": "\"Orange & Speaker\"",
+          "href": "http://www.tamashell.com/i/shells/v6/orangenspeaker.jpg"
+        },
+        {
+          "shellName": "\"Musical Note\"",
+          "href": "http://www.tamashell.com/i/shells/v6/musicalnote.jpg"
+        },
+        {
+          "shellName": "\"Black\"",
+          "href": "http://www.tamashell.com/i/shells/v6/black.jpg"
+        },
+        {
+          "shellName": "\"Star & Microphone\"",
+          "href": "http://www.tamashell.com/i/shells/v6/starnmicrophone.jpg"
+        },
+        {
+          "shellName": "\"Yellow Guitar\"",
+          "href": "http://www.tamashell.com/i/shells/v6/yellowguitar.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi Mini": [
+        {
+          "shellName": "Yellow w/ Stripes",
+          "href": "http://www.tamashell.com/i/shells/mini/yellow_stripes.jpg"
+        },
+        {
+          "shellName": "Red w/ Text",
+          "href": "http://www.tamashell.com/i/shells/mini/red_text.jpg"
+        },
+        {
+          "shellName": "Green w/ Apples",
+          "href": "http://www.tamashell.com/i/shells/mini/apples.jpg"
+        },
+        {
+          "shellName": "Black",
+          "href": "http://www.tamashell.com/i/shells/mini/black.jpg"
+        },
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/mini/blue.jpg"
+        },
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/mini/pink.jpg"
+        },
+        {
+          "shellName": "\"Apple Three\"",
+          "href": "http://www.tamashell.com/i/shells/mini/chibi01.jpg"
+        },
+        {
+          "shellName": "\"Black Diamond\"",
+          "href": "http://www.tamashell.com/i/shells/mini/chibi01.jpg"
+        },
+        {
+          "shellName": "Clock",
+          "href": "http://www.tamashell.com/i/shells/mini/clock.jpg"
+        },
+        {
+          "shellName": "Numbers",
+          "href": "http://www.tamashell.com/i/shells/mini/numbers.jpg"
+        },
+        {
+          "shellName": "\"Purple Gum\"",
+          "href": "http://www.tamashell.com/i/shells/mini/chibi01.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/mini/white.jpg"
+        },
+        {
+          "shellName": "Orange",
+          "href": "http://www.tamashell.com/i/shells/mini/USorange.jpg"
+        },
+        {
+          "shellName": "Purple",
+          "href": "http://www.tamashell.com/i/shells/mini/purple.jpg"
+        },
+        {
+          "shellName": "Uniqlo Camo",
+          "href": "http://www.tamashell.com/i/shells/mini/uniqlocamo.jpg"
+        }
+      ]
+    },
+    {
+      "Keitai Kaitsuu": [
+        {
+          "shellName": "Akai Ginko",
+          "href": "http://www.tamashell.com/i/shells/v3/orange_leaves.jpg"
+        },
+        {
+          "shellName": "Akai Apples",
+          "href": "http://www.tamashell.com/i/shells/v3/k_akaiapples.jpg"
+        },
+        {
+          "shellName": "\"Shiro\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_whiteblue.jpg"
+        },
+        {
+          "shellName": "\"White Flower\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_whiteflowers.jpg"
+        },
+        {
+          "shellName": "White w/ Black",
+          "href": "http://www.tamashell.com/i/shells/v3/k_whiteblack.jpg"
+        },
+        {
+          "shellName": "Akai Camo",
+          "href": "http://www.tamashell.com/i/shells/v3/k_akaiheartcamo.jpg"
+        },
+        {
+          "shellName": "Akai Meta Red",
+          "href": "http://www.tamashell.com/i/shells/v3/k_akaimetared.jpg"
+        },
+        {
+          "shellName": "Akai Natural White",
+          "href": "http://www.tamashell.com/i/shells/v3/k_akainaturalwhite.jpg"
+        },
+        {
+          "shellName": "Akai Orange Hearts",
+          "href": "http://www.tamashell.com/i/shells/v3/k_akaihearts.jpg"
+        },
+        {
+          "shellName": "Akai Pink Hearts",
+          "href": "http://www.tamashell.com/i/shells/v3/k_akaihearts.jpg"
+        },
+        {
+          "shellName": "Akai Soshiruba",
+          "href": "http://www.tamashell.com/i/shells/v3/k_akaisoshiruba.jpg"
+        },
+        {
+          "shellName": "\"Blue Dekore\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_bluedekore.jpg"
+        },
+        {
+          "shellName": "\"Black Spark\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_lightning.jpg"
+        },
+        {
+          "shellName": "\"Orange Juice\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_oj.jpg"
+        },
+        {
+          "shellName": "\"Milk Tea\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_peachtea.jpg"
+        },
+        {
+          "shellName": "\"Ichigo Red\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_red.jpg"
+        },
+        {
+          "shellName": "Spaceships",
+          "href": "http://www.tamashell.com/i/shells/v3/k_space.jpg"
+        },
+        {
+          "shellName": "2005 Spring Special 1",
+          "href": "http://www.tamashell.com/i/shells/v3/k_spring.jpg"
+        },
+        {
+          "shellName": "2005 Spring Special 2",
+          "href": "http://www.tamashell.com/i/shells/v3/k_spring.jpg"
+        },
+        {
+          "shellName": "Akai Pirate",
+          "href": "http://www.tamashell.com/i/shells/v3/k_akaipirate.jpg"
+        },
+        {
+          "shellName": "Hanerutchi Red",
+          "href": "http://www.tamashell.com/i/shells/v3/hanerutchi.jpg"
+        },
+        {
+          "shellName": "Hanerutchi Green",
+          "href": "http://www.tamashell.com/i/shells/v3/hanerutchi.jpg"
+        },
+        {
+          "shellName": "Hanerutchi Blue",
+          "href": "http://www.tamashell.com/i/shells/v3/hanerutchi.jpg"
+        },
+        {
+          "shellName": "Akai \"Ciào Berry\"",
+          "href": "http://www.tamashell.com/i/shells/v3/akaiciaoberry.jpg"
+        },
+        {
+          "shellName": "Akai \"Orange\"",
+          "href": "http://www.tamashell.com/i/shells/v3/akaiorange.jpg"
+        },
+        {
+          "shellName": "Akai \"Pink\"",
+          "href": "http://www.tamashell.com/i/shells/v3/akaipink.jpg"
+        },
+        {
+          "shellName": "Akai \"Pink Tea\"",
+          "href": "http://www.tamashell.com/i/shells/v3/akaipinktea.jpg"
+        },
+        {
+          "shellName": "Akai White w/ R",
+          "href": "http://www.tamashell.com/i/shells/v3/akaiR.jpg"
+        },
+        {
+          "shellName": "Akai \"Red\"",
+          "href": "http://www.tamashell.com/i/shells/v3/akaired.jpg"
+        },
+        {
+          "shellName": "Akai \"Red Apple\"",
+          "href": "http://www.tamashell.com/i/shells/v3/akairedapple.jpg"
+        },
+        {
+          "shellName": "Akai \"Sweets\"",
+          "href": "http://www.tamashell.com/i/shells/v3/akaisweets.jpg"
+        },
+        {
+          "shellName": "Akai Viking",
+          "href": "http://www.tamashell.com/i/shells/v3/akaiviking.jpg"
+        },
+        {
+          "shellName": "Akai \"White\"",
+          "href": "http://www.tamashell.com/i/shells/v3/akaiwhite.jpg"
+        },
+        {
+          "shellName": "\"Aka\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_aka.jpg"
+        },
+        {
+          "shellName": "\"Aloha Red\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_alohared.jpg"
+        },
+        {
+          "shellName": "\"Blue Team\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_blueteam.jpg"
+        },
+        {
+          "shellName": "\"Chocolate\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_chocolate.jpg"
+        },
+        {
+          "shellName": "\"Choucho\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_choucho.jpg"
+        },
+        {
+          "shellName": "\"Ciào Beads\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_ciaospots.jpg"
+        },
+        {
+          "shellName": "\"Clear Blue\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_clearblue.jpg"
+        },
+        {
+          "shellName": "\"Clear Pink\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_clearpink.jpg"
+        },
+        {
+          "shellName": "\"Coro Coro Comics\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_corocoro.jpg"
+        },
+        {
+          "shellName": "\"Flowers\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_flower.jpg"
+        },
+        {
+          "shellName": "\"Gray\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_gray.jpg"
+        },
+        {
+          "shellName": "\"Ichigo Milk\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_ichigomilk.jpg"
+        },
+        {
+          "shellName": "\"Ichigo Yogurt\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_ichigoyogurt.jpg"
+        },
+        {
+          "shellName": "\"Lemon Yellow\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_lemonyellow.jpg"
+        },
+        {
+          "shellName": "\"Melon Soda\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_melonsoda.jpg"
+        },
+        {
+          "shellName": "\"Meta Blue\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_metablue.jpg"
+        },
+        {
+          "shellName": "\"Meta Pink\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_metapink.jpg"
+        },
+        {
+          "shellName": "\"Pink\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_pink.jpg"
+        },
+        {
+          "shellName": "\"Pink Dekore\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_pinkdekore.jpg"
+        },
+        {
+          "shellName": "\"Silver Blue\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_silver.jpg"
+        },
+        {
+          "shellName": "\"Silver Pink\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_silver.jpg"
+        },
+        {
+          "shellName": "\"White Clover\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_whiteclover.jpg"
+        },
+        {
+          "shellName": "\"Yellow\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_yellow.jpg"
+        },
+        {
+          "shellName": "\"Yukata Blue\"",
+          "href": "http://www.tamashell.com/i/shells/v3/k_yukatablue.jpg"
+        },
+        {
+          "shellName": "Puma",
+          "href": "http://www.tamashell.com/i/shells/v3/k_puma.jpg"
+        },
+        {
+          "shellName": "Toys R Us",
+          "href": "http://www.tamashell.com/i/shells/ktama/toysrus.jpg"
+        },
+        {
+          "shellName": "Akai Toys R Us",
+          "href": "http://www.tamashell.com/i/shells/ktama/a_toysrus.jpg"
+        }
+      ]
+    },
+    {
+      "Chou Jinsei Enjoi": [
+        {
+          "shellName": "\"Renge\"",
+          "href": "http://www.tamashell.com/i/shells/v4/white_clover.jpg"
+        },
+        {
+          "shellName": "",
+          "href": "http://www.tamashell.com/http://carleesi.tumblr.com/post/75147805980"
+        },
+        {
+          "shellName": "\"Beads White\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_balls.jpg"
+        },
+        {
+          "shellName": "\"Café Brown\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_cafe.jpg"
+        },
+        {
+          "shellName": "Ciào 1",
+          "href": "http://www.tamashell.com/i/shells/v4/e_ciao.jpg"
+        },
+        {
+          "shellName": "Ciào 2",
+          "href": "http://www.tamashell.com/i/shells/v4/e_ciao2.jpg"
+        },
+        {
+          "shellName": "Ciào 3",
+          "href": "http://www.tamashell.com/i/shells/v4/e_ciao3.jpg"
+        },
+        {
+          "shellName": "Cyoi",
+          "href": "http://www.tamashell.com/i/shells/v4/e_cyoi.jpg"
+        },
+        {
+          "shellName": "Guts Black",
+          "href": "http://www.tamashell.com/i/shells/v4/e_gutsblack.jpg"
+        },
+        {
+          "shellName": "Guts Blue",
+          "href": "http://www.tamashell.com/i/shells/v4/e_gutsblue.jpg"
+        },
+        {
+          "shellName": "Guts Yellow",
+          "href": "http://www.tamashell.com/i/shells/v4/e_gutsyellow.jpg"
+        },
+        {
+          "shellName": "\"GUTS Swimming\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_swimming.jpg"
+        },
+        {
+          "shellName": "\"Aozora\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_paperplanes.jpg"
+        },
+        {
+          "shellName": "\"Frill Pink\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_pinkred.jpg"
+        },
+        {
+          "shellName": "\"All Blue\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_sparkles.jpg"
+        },
+        {
+          "shellName": "\"Yozora\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_stars.jpg"
+        },
+        {
+          "shellName": "\"Pink Sweater\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_ta.jpg"
+        },
+        {
+          "shellName": "\"Yellow Sweater\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_yellowgreen.jpg"
+        },
+        {
+          "shellName": "Magenta Toys \"R\" Us",
+          "href": "http://www.tamashell.com/i/shells/v4/magenta_toysrus.jpg"
+        },
+        {
+          "shellName": "\"Hachimitsu Orange\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_honeycomb.jpg"
+        },
+        {
+          "shellName": "\"CYOI Pink\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_cyoipink.jpg"
+        },
+        {
+          "shellName": "\"All Pink\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_allpink.jpg"
+        },
+        {
+          "shellName": "\"Beads Red\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_beadsred.jpg"
+        },
+        {
+          "shellName": "\"Blue Ramune\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_blueramune.jpg"
+        },
+        {
+          "shellName": "\"Choco Silver\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_chocosilver.jpg"
+        },
+        {
+          "shellName": "\"CYOI White\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_cyoiwhite.jpg"
+        },
+        {
+          "shellName": "Christmas Green",
+          "href": "http://www.tamashell.com/i/shells/v4/e_christmas.jpg"
+        },
+        {
+          "shellName": "Christmas Red",
+          "href": "http://www.tamashell.com/i/shells/v4/e_christmas.jpg"
+        },
+        {
+          "shellName": "\"Guru Guru Green\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_gurugurugreen.jpg"
+        },
+        {
+          "shellName": "\"Pika Pika Pink\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_pikapikapink.jpg"
+        },
+        {
+          "shellName": "\"GUTS Summer\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_gutssummer.jpg"
+        },
+        {
+          "shellName": "\"GUTS White\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_gutswhite.jpg"
+        },
+        {
+          "shellName": "\"Hakugin\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_hakugin.jpg"
+        },
+        {
+          "shellName": "\"Moji Moji Orange\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_mojimojiorange.jpg"
+        },
+        {
+          "shellName": "Onsen",
+          "href": "http://www.tamashell.com/i/shells/v4/e_onsen.jpg"
+        },
+        {
+          "shellName": "\"Pink Parfait\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_pinkparfait.jpg"
+        },
+        {
+          "shellName": "\"White Blue\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_whiteblue.jpg"
+        },
+        {
+          "shellName": "\"Sakura\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_sakura.jpg"
+        },
+        {
+          "shellName": "\"Ta Navy\"",
+          "href": "http://www.tamashell.com/i/shells/v4/e_tanavy.jpg"
+        },
+        {
+          "shellName": "\"Hanerutchi 2 Blue\"",
+          "href": "http://www.tamashell.com/i/shells/v4/hane2blue.jpg"
+        },
+        {
+          "shellName": "\"Hanerutchi 2 Red\"",
+          "href": "http://www.tamashell.com/i/shells/v4/hane2red.jpg"
+        },
+        {
+          "shellName": "\"Toys \"R\" Us Green\"",
+          "href": "http://www.tamashell.com/i/shells/v4/TRU2.jpg"
+        },
+        {
+          "shellName": "\"Toys \"R\" Us Blue\"",
+          "href": "http://www.tamashell.com/i/shells/v4/TRU3.jpg"
+        },
+        {
+          "shellName": "\"Toys \"R\" Us Navy\"",
+          "href": "http://www.tamashell.com/i/shells/v4/TRU4.jpg"
+        },
+        {
+          "shellName": "Japan Airlines",
+          "href": "http://www.tamashell.com/i/shells/entama/JAL.jpg"
+        },
+        {
+          "shellName": "\"Pandatchi Blue\"",
+          "href": "http://www.tamashell.com/i/shells/entama/pandatchiblue.jpg"
+        },
+        {
+          "shellName": "\"Pandatchi Green\"",
+          "href": "http://www.tamashell.com/i/shells/entama/pandatchigreen.jpg"
+        },
+        {
+          "shellName": "\"Pandatchi Yellow\"",
+          "href": "http://www.tamashell.com/i/shells/entama/pandatchiyellow.jpg"
+        }
+      ]
+    },
+    {
+      "Ura Jinsei Enjoi": [
+        {
+          "shellName": "Ura Tama Town",
+          "href": "http://www.tamashell.com/i/shells/v45/uratamatown.jpg"
+        },
+        {
+          "shellName": "\"Ura Flower\"",
+          "href": "http://www.tamashell.com/i/shells/v45/white_flowerrings.jpg"
+        },
+        {
+          "shellName": "",
+          "href": "http://www.tamashell.com/http://carleesi.tumblr.com/post/64683363851/collection-part-2-v2-v3-v4-jinsei-v4-5"
+        },
+        {
+          "shellName": "\"Ura Neon\"",
+          "href": "http://www.tamashell.com/i/shells/v45/u_2006.jpg"
+        },
+        {
+          "shellName": "Come O˜n!",
+          "href": "http://www.tamashell.com/i/shells/v45/u_comeon.jpg"
+        },
+        {
+          "shellName": "JAL",
+          "href": "http://www.tamashell.com/i/shells/v45/u_jal.jpg"
+        },
+        {
+          "shellName": "\"Ura Frill\"",
+          "href": "http://www.tamashell.com/i/shells/v45/u_lace.jpg"
+        },
+        {
+          "shellName": "\"Ura Rose\"",
+          "href": "http://www.tamashell.com/i/shells/v45/u_roses.jpg"
+        },
+        {
+          "shellName": "Red Tamatenbako",
+          "href": "http://www.tamashell.com/i/shells/v45/tamatenbako.jpg"
+        },
+        {
+          "shellName": "Black Tamatenbako",
+          "href": "http://www.tamashell.com/i/shells/v45/tamatenbako.jpg"
+        },
+        {
+          "shellName": "Blue Tamatenbako",
+          "href": "http://www.tamashell.com/i/shells/v45/tamatenbako.jpg"
+        },
+        {
+          "shellName": "\"Ciào Ura Tama Summer\"",
+          "href": "http://www.tamashell.com/i/shells/v45/ciaouratamasummer.jpg"
+        },
+        {
+          "shellName": "\"Ura Blue Check\"",
+          "href": "http://www.tamashell.com/i/shells/v45/urabluecheck.jpg"
+        },
+        {
+          "shellName": "\"Ura Circus\"",
+          "href": "http://www.tamashell.com/i/shells/v45/uracircus.jpg"
+        },
+        {
+          "shellName": "\"Ura Green Star\"",
+          "href": "http://www.tamashell.com/i/shells/v45/uragreenstar.jpg"
+        },
+        {
+          "shellName": "\"Ura Jewelry\"",
+          "href": "http://www.tamashell.com/i/shells/v45/urajewelry.jpg"
+        },
+        {
+          "shellName": "\"Ura Mark\"",
+          "href": "http://www.tamashell.com/i/shells/v45/uramark.jpg"
+        },
+        {
+          "shellName": "\"Ura Moji Mountain\"",
+          "href": "http://www.tamashell.com/i/shells/v45/uramojimountain.jpg"
+        },
+        {
+          "shellName": "\"Ura Music\"",
+          "href": "http://www.tamashell.com/i/shells/v45/uramusic.jpg"
+        },
+        {
+          "shellName": "\"Ura Party\"",
+          "href": "http://www.tamashell.com/i/shells/v45/uraparty.jpg"
+        },
+        {
+          "shellName": "\"Ura Pink Check\"",
+          "href": "http://www.tamashell.com/i/shells/v45/urapinkcheck.jpg"
+        },
+        {
+          "shellName": "\"Ura Pink Star\"",
+          "href": "http://www.tamashell.com/i/shells/v45/urapinkstar.jpg"
+        },
+        {
+          "shellName": "\"Ura Rainbow\"",
+          "href": "http://www.tamashell.com/i/shells/v45/urarainbow.jpg"
+        },
+        {
+          "shellName": "\"Ura River\">",
+          "href": "http://www.tamashell.com/i/shells/v45/urariver.jpg"
+        },
+        {
+          "shellName": "\"Ura Splash\"",
+          "href": "http://www.tamashell.com/i/shells/v45/urasplash.jpg"
+        },
+        {
+          "shellName": "Ura Tama Frog",
+          "href": "http://www.tamashell.com/i/shells/v45/uratamafrog.jpg"
+        }
+      ]
+    },
+    {
+      "Oden-kun": [
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/oden/oden1.jpg"
+        },
+        {
+          "shellName": "Yellow",
+          "href": "http://www.tamashell.com/i/shells/oden/yellow.jpg"
+        }
+      ]
+    },
+    {
+      "TamagoChu": [
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/tamachu/whitepink.png"
+        },
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/tamachu/whitepink.png"
+        },
+        {
+          "shellName": "Black",
+          "href": "http://www.tamashell.com/i/shells/tamachu/blackwhite.png"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/tamachu/blackwhite.png"
+        },
+        {
+          "shellName": "Moon",
+          "href": "http://www.tamashell.com/i/shells/tamachu/moonflower.jpg"
+        },
+        {
+          "shellName": "Flower",
+          "href": "http://www.tamashell.com/i/shells/tamachu/moonflower.jpg"
+        },
+        {
+          "shellName": "King",
+          "href": "http://www.tamashell.com/i/shells/tamachu/kingqueen.jpg"
+        },
+        {
+          "shellName": "Queen",
+          "href": "http://www.tamashell.com/i/shells/tamachu/kingqueen.jpg"
+        }
+      ]
+    }
+  ],
+  "Modern": [
+    {
+      "Tamagotchi Plus Color": [
+        {
+          "shellName": "Black",
+          "href": "http://www.tamashell.com/i/shells/plusc/black.jpg"
+        },
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/plusc/blue.jpg"
+        },
+        {
+          "shellName": "Green",
+          "href": "http://www.tamashell.com/i/shells/plusc/green.jpg"
+        },
+        {
+          "shellName": "Orange",
+          "href": "http://www.tamashell.com/i/shells/plusc/orange.jpg"
+        },
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/plusc/pink.jpg"
+        },
+        {
+          "shellName": "Purple",
+          "href": "http://www.tamashell.com/i/shells/plusc/purple.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/plusc/white.jpg"
+        },
+        {
+          "shellName": "Yellow",
+          "href": "http://www.tamashell.com/i/shells/plusc/yellow.jpg"
+        },
+        {
+          "shellName": "Navy",
+          "href": "http://www.tamashell.com/i/shells/plusc/navy.jpg"
+        },
+        {
+          "shellName": "Green & White",
+          "href": "http://www.tamashell.com/i/shells/plusc/greenwhite.jpg"
+        },
+        {
+          "shellName": "Pink & White",
+          "href": "http://www.tamashell.com/i/shells/plusc/pinkwhite.jpg"
+        },
+        {
+          "shellName": "Hexagontchi Red",
+          "href": "http://www.tamashell.com/i/shells/plusc/hexred.jpg"
+        },
+        {
+          "shellName": "Hexagontchi White",
+          "href": "http://www.tamashell.com/i/shells/plusc/hexwhite.jpg"
+        },
+        {
+          "shellName": "EXILE Red",
+          "href": "http://www.tamashell.com/i/shells/plusc/exilered.jpg"
+        },
+        {
+          "shellName": "EXILE White",
+          "href": "http://www.tamashell.com/i/shells/plusc/exilewhite.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi iD": [
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/id/blue.jpg"
+        },
+        {
+          "shellName": "Green",
+          "href": "http://www.tamashell.com/i/shells/id/green.jpg"
+        },
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/id/pink.jpg"
+        },
+        {
+          "shellName": "Purple",
+          "href": "http://www.tamashell.com/i/shells/id/purple.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/id/white.jpg"
+        },
+        {
+          "shellName": "Yellow",
+          "href": "http://www.tamashell.com/i/shells/id/yellow.jpg"
+        },
+        {
+          "shellName": "Lovely Melody 1",
+          "href": "http://www.tamashell.com/i/shells/id/melody1.jpg"
+        },
+        {
+          "shellName": "Lovely Melody 2",
+          "href": "http://www.tamashell.com/i/shells/id/melody2.jpg"
+        },
+        {
+          "shellName": "Conan",
+          "href": "http://www.tamashell.com/i/shells/id/conan.jpg"
+        },
+        {
+          "shellName": "Milky Blue",
+          "href": "http://www.tamashell.com/i/shells/id/milkypinkb.jpg"
+        },
+        {
+          "shellName": "Milky Pink",
+          "href": "http://www.tamashell.com/i/shells/id/milkypink.png"
+        },
+        {
+          "shellName": "Pink Gold",
+          "href": "http://www.tamashell.com/i/shells/id/milkypinkg.jpg"
+        },
+        {
+          "shellName": "Blue Silver",
+          "href": "http://www.tamashell.com/i/shells/id/bluesilver.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi Nano": [
+        {
+          "shellName": "Series 1: Blue",
+          "href": "http://www.tamashell.com/i/shells/nano/1_blue.jpg"
+        },
+        {
+          "shellName": "Series 1: Aqua",
+          "href": "http://www.tamashell.com/i/shells/nano/1_lblue.jpg"
+        },
+        {
+          "shellName": "Series 1: Pink",
+          "href": "http://www.tamashell.com/i/shells/nano/1_pink.jpg"
+        },
+        {
+          "shellName": "Series 1: Yellow",
+          "href": "http://www.tamashell.com/i/shells/nano/1_yellow.jpg"
+        },
+        {
+          "shellName": "Series 2: Black",
+          "href": "http://www.tamashell.com/i/shells/nano/2_black.jpg"
+        },
+        {
+          "shellName": "Series 2: Mint",
+          "href": "http://www.tamashell.com/i/shells/nano/2_mint.jpg"
+        },
+        {
+          "shellName": "Series 2: Pink",
+          "href": "http://www.tamashell.com/i/shells/nano/2_pink.jpg"
+        },
+        {
+          "shellName": "Series 2: Purple",
+          "href": "http://www.tamashell.com/i/shells/nano/2_purple.jpg"
+        },
+        {
+          "shellName": "Series 3: Aqua",
+          "href": "http://www.tamashell.com/i/shells/nano/3_sky.jpg"
+        },
+        {
+          "shellName": "Series 3: Green",
+          "href": "http://www.tamashell.com/i/shells/nano/3_green.jpg"
+        },
+        {
+          "shellName": "Series 3: Pink",
+          "href": "http://www.tamashell.com/i/shells/nano/3_pink.jpg"
+        },
+        {
+          "shellName": "Series 3: Purple",
+          "href": "http://www.tamashell.com/i/shells/nano/3_purple.jpg"
+        },
+        {
+          "shellName": "Series 3: White",
+          "href": "http://www.tamashell.com/i/shells/nano/3_white.jpg"
+        },
+        {
+          "shellName": "Series 3: Yellow",
+          "href": "http://www.tamashell.com/i/shells/nano/3_yellow.jpg"
+        },
+        {
+          "shellName": "Series 4: Blue",
+          "href": "http://www.tamashell.com/i/shells/nano/4_blue.jpg"
+        },
+        {
+          "shellName": "Series 4: Pink",
+          "href": "http://www.tamashell.com/i/shells/nano/4_pink.jpg"
+        },
+        {
+          "shellName": "Series 4: White",
+          "href": "http://www.tamashell.com/i/shells/nano/4_white.jpg"
+        },
+        {
+          "shellName": "Series 4: Yellow",
+          "href": "http://www.tamashell.com/i/shells/nano/4_yellow.jpg"
+        },
+        {
+          "shellName": "Depa Pink",
+          "href": "http://www.tamashell.com/i/shells/nano/depa_pink.jpg"
+        },
+        {
+          "shellName": "Depa White",
+          "href": "http://www.tamashell.com/i/shells/nano/depawhite.jpg"
+        },
+        {
+          "shellName": "Depa Black",
+          "href": "http://www.tamashell.com/i/shells/nano/depablack.jpg"
+        }
+      ]
+    },
+    {
+      "TamaTown Tama Go": [
+        {
+          "shellName": "Black w/ Mametchi",
+          "href": "http://www.tamashell.com/i/shells/tttg/black_mametchi.jpg"
+        },
+        {
+          "shellName": "Blue w/ Memetchi",
+          "href": "http://www.tamashell.com/i/shells/tttg/blue_memetchi.jpg"
+        },
+        {
+          "shellName": "Green w/ Mametchi",
+          "href": "http://www.tamashell.com/i/shells/tttg/green_mametchi.jpg"
+        },
+        {
+          "shellName": "Pink w/ Kuchipatchi",
+          "href": "http://www.tamashell.com/i/shells/tttg/pink_kuchipatchi.jpg"
+        },
+        {
+          "shellName": "Purple w/ Memetchi",
+          "href": "http://www.tamashell.com/i/shells/tttg/purple_memetchi.jpg"
+        },
+        {
+          "shellName": "White w/ Kuchipatchi",
+          "href": "http://www.tamashell.com/i/shells/tttg/white_kuchipatchi.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi iD L": [
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/idl/blue.jpg"
+        },
+        {
+          "shellName": "Green",
+          "href": "http://www.tamashell.com/i/shells/idl/green.jpg"
+        },
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/idl/pink.jpg"
+        },
+        {
+          "shellName": "Purple",
+          "href": "http://www.tamashell.com/i/shells/idl/purple.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/idl/white.jpg"
+        },
+        {
+          "shellName": "Yellow",
+          "href": "http://www.tamashell.com/i/shells/idl/yellow.jpg"
+        },
+        {
+          "shellName": "15th Anniversary 1",
+          "href": "http://www.tamashell.com/i/shells/idl/15th.jpg"
+        },
+        {
+          "shellName": "15th Anniversary 2",
+          "href": "http://www.tamashell.com/i/shells/idl/15th.jpg"
+        },
+        {
+          "shellName": "Princess Spacey",
+          "href": "http://www.tamashell.com/i/shells/idl/spacey.jpg"
+        },
+        {
+          "shellName": "iD L SPOT",
+          "href": "http://www.tamashell.com/i/shells/idl/spot.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi Ps": [
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/ps/blue.jpg"
+        },
+        {
+          "shellName": "Green",
+          "href": "http://www.tamashell.com/i/shells/ps/green.jpg"
+        },
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/ps/pink.jpg"
+        },
+        {
+          "shellName": "Purple",
+          "href": "http://www.tamashell.com/i/shells/ps/purple.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/ps/white.jpg"
+        },
+        {
+          "shellName": "Yellow",
+          "href": "http://www.tamashell.com/i/shells/ps/yellow.jpg"
+        },
+        {
+          "shellName": "Aikatsu",
+          "href": "http://www.tamashell.com/i/shells/ps/aikatsu.jpg"
+        },
+        {
+          "shellName": "Dream Coffret",
+          "href": "http://www.tamashell.com/i/shells/ps/dreamcoffret.jpg"
+        },
+        {
+          "shellName": "Melody Land",
+          "href": "http://www.tamashell.com/i/shells/ps/melodyland.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi Friends": [
+        {
+          "shellName": "\"Sapphire Gem\"",
+          "href": "http://www.tamashell.com/i/shells/friends/eu_bluegem.jpg"
+        },
+        {
+          "shellName": "\"Pink Diamond Gem\"",
+          "href": "http://www.tamashell.com/i/shells/friends/eu_pinkgem.jpg"
+        },
+        {
+          "shellName": "\"Amethyst Gem\"",
+          "href": "http://www.tamashell.com/i/shells/friends/eu_purplegem.jpg"
+        },
+        {
+          "shellName": "\"Blue Dalmation\"",
+          "href": "http://www.tamashell.com/i/shells/friends/eu_dalmation.jpg"
+        },
+        {
+          "shellName": "\"Colorful Leopard\"",
+          "href": "http://www.tamashell.com/i/shells/friends/eu_leopard.jpg"
+        },
+        {
+          "shellName": "\"Wild Hearts\"",
+          "href": "http://www.tamashell.com/i/shells/friends/eu_pinkhearts.jpg"
+        },
+        {
+          "shellName": "\"Silver Blue Gem\"",
+          "href": "http://www.tamashell.com/i/shells/friends/na_bluegem.jpg"
+        },
+        {
+          "shellName": "\"Silver Pink Gem\"",
+          "href": "http://www.tamashell.com/i/shells/friends/na_pinkgem.jpg"
+        },
+        {
+          "shellName": "\"Silver Purple Gem\"",
+          "href": "http://www.tamashell.com/i/shells/friends/na_purplegem.jpg"
+        },
+        {
+          "shellName": "\"Bright Stars\"",
+          "href": "http://www.tamashell.com/i/shells/friends/na_bluebff.jpg"
+        },
+        {
+          "shellName": "\"Purple Jewels\"",
+          "href": "http://www.tamashell.com/i/shells/friends/na_jewelry.jpg"
+        },
+        {
+          "shellName": "\"Sweet Polka Dot\"",
+          "href": "http://www.tamashell.com/i/shells/friends/na_pinkblack.jpg"
+        },
+        {
+          "shellName": "\"Colorful Bubbles\"",
+          "href": "http://www.tamashell.com/i/shells/friends/colorfulbubbles.png"
+        },
+        {
+          "shellName": "\"Floral Gem\"",
+          "href": "http://www.tamashell.com/i/shells/friends/floralgem.png"
+        },
+        {
+          "shellName": "\"Green Leopard Gem\"",
+          "href": "http://www.tamashell.com/i/shells/friends/greenleopardgem.png"
+        },
+        {
+          "shellName": "\"Kira Kira Gem\"",
+          "href": "http://www.tamashell.com/i/shells/friends/kirakiragem.png"
+        },
+        {
+          "shellName": "\"Pink Lace Gem\"",
+          "href": "http://www.tamashell.com/i/shells/friends/pinklacegem.png"
+        },
+        {
+          "shellName": "\"Zig Zag Gem\"",
+          "href": "http://www.tamashell.com/i/shells/friends/zigzaggem.png"
+        }
+      ]
+    },
+    {
+      "Tamagotchi 4U / 4U+": [
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/4u/pink.jpg"
+        },
+        {
+          "shellName": "Purple",
+          "href": "http://www.tamashell.com/i/shells/4u/purple.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/4u/white.jpg"
+        },
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/4u/blue.jpg"
+        },
+        {
+          "shellName": "Royal Pink",
+          "href": "http://www.tamashell.com/i/shells/4u/royalpink.jpg"
+        },
+        {
+          "shellName": "Royal Purple",
+          "href": "http://www.tamashell.com/i/shells/4u/royalpurple.jpg"
+        },
+        {
+          "shellName": "Lavender",
+          "href": "http://www.tamashell.com/i/shells/4u/lavender.jpg"
+        },
+        {
+          "shellName": "Baby Pink",
+          "href": "http://www.tamashell.com/i/shells/4u/babypink.jpg"
+        },
+        {
+          "shellName": "Sky Blue",
+          "href": "http://www.tamashell.com/i/shells/4u/skyblue.jpg"
+        },
+        {
+          "shellName": "Rose Pink",
+          "href": "http://www.tamashell.com/i/shells/4u/rosepink.jpg"
+        },
+        {
+          "shellName": "Lemon Yellow",
+          "href": "http://www.tamashell.com/i/shells/4u/lemonyellow.jpg"
+        },
+        {
+          "shellName": "Peach Orange",
+          "href": "http://www.tamashell.com/i/shells/4u/peachorange.jpg"
+        },
+        {
+          "shellName": "Lime Green",
+          "href": "http://www.tamashell.com/i/shells/4u/limegreen.jpg"
+        },
+        {
+          "shellName": "Light Purple",
+          "href": "http://www.tamashell.com/i/shells/4u/lightpurple.jpg"
+        },
+        {
+          "shellName": "Pearl Pink",
+          "href": "http://www.tamashell.com/i/shells/4u/pearlpink.jpg"
+        },
+        {
+          "shellName": "Pearl Purple",
+          "href": "http://www.tamashell.com/i/shells/4u/pearlpurple.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi m!x": [
+        {
+          "shellName": "Melody Blue",
+          "href": "http://www.tamashell.com/i/shells/m!x/blue_m.jpg"
+        },
+        {
+          "shellName": "Melody Pink",
+          "href": "http://www.tamashell.com/i/shells/m!x/pink_m.jpg"
+        },
+        {
+          "shellName": "Melody Purple",
+          "href": "http://www.tamashell.com/i/shells/m!x/purple_m.jpg"
+        },
+        {
+          "shellName": "Spacey Blue",
+          "href": "http://www.tamashell.com/i/shells/m!x/blue_s.jpg"
+        },
+        {
+          "shellName": "Spacey Pink",
+          "href": "http://www.tamashell.com/i/shells/m!x/pink_s.jpg"
+        },
+        {
+          "shellName": "Spacey Purple",
+          "href": "http://www.tamashell.com/i/shells/m!x/purple_s.jpg"
+        },
+        {
+          "shellName": "Royal White",
+          "href": "http://www.tamashell.com/i/shells/m!x/royalwhite.jpg"
+        },
+        {
+          "shellName": "Royal Pink",
+          "href": "http://www.tamashell.com/i/shells/m!x/royalpink.jpg"
+        },
+        {
+          "shellName": "Anniversary Gift",
+          "href": "http://www.tamashell.com/i/shells/m!x/gift.jpg"
+        },
+        {
+          "shellName": "Dreamy Blue",
+          "href": "http://www.tamashell.com/i/shells/m!x/dreamblue.jpg"
+        },
+        {
+          "shellName": "Dreamy Pink",
+          "href": "http://www.tamashell.com/i/shells/m!x/dreampink.jpg"
+        },
+        {
+          "shellName": "Dreamy Purple",
+          "href": "http://www.tamashell.com/i/shells/m!x/dreampurple.jpg"
+        },
+        {
+          "shellName": "Sanrio Characters Version",
+          "href": "http://www.tamashell.com/i/shells/m!x/sanrio.jpg"
+        },
+        {
+          "shellName": "Sanrio Pink Toys R Us",
+          "href": "http://www.tamashell.com/i/shells/m!x/sanriopink.jpg"
+        }
+      ]
+    },
+    {
+      "20th Anniv. Classics": [
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/chibi/white.jpg"
+        },
+        {
+          "shellName": "Orange",
+          "href": "http://www.tamashell.com/i/shells/chibi/orange.jpg"
+        },
+        {
+          "shellName": "Skeleton",
+          "href": "http://www.tamashell.com/i/shells/chibi/skeleton.jpg"
+        },
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/chibi/blue.jpg"
+        },
+        {
+          "shellName": "Light Blue",
+          "href": "http://www.tamashell.com/i/shells/chibi/lightblue.jpg"
+        },
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/chibi/pink.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/chibi/2white.jpg"
+        },
+        {
+          "shellName": "Purple",
+          "href": "http://www.tamashell.com/i/shells/chibi/2purple.jpg"
+        },
+        {
+          "shellName": "Translucent Green",
+          "href": "http://www.tamashell.com/i/shells/chibi/2translucentgreen.jpg"
+        },
+        {
+          "shellName": "Yellow",
+          "href": "http://www.tamashell.com/i/shells/chibi/2yellow.jpg"
+        },
+        {
+          "shellName": "Pink with Swirls",
+          "href": "http://www.tamashell.com/i/shells/chibi/2pinkwithswirls.jpg"
+        },
+        {
+          "shellName": "Translucent Purple",
+          "href": "http://www.tamashell.com/i/shells/chibi/2translucentpurple.jpg"
+        },
+        {
+          "shellName": "Flocked Light Blue",
+          "href": "http://www.tamashell.com/i/shells/chibi/2flockedlightblue.jpg"
+        },
+        {
+          "shellName": "Flocked Light Pink",
+          "href": "http://www.tamashell.com/i/shells/chibi/2flockedlightpink.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/chibi/3white.jpg"
+        },
+        {
+          "shellName": "Red & Black",
+          "href": "http://www.tamashell.com/i/shells/chibi/3redandblack.jpg"
+        },
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/chibi/3blue.jpg"
+        },
+        {
+          "shellName": "Bright Green",
+          "href": "http://www.tamashell.com/i/shells/chibi/3brightgreen.jpg"
+        },
+        {
+          "shellName": "Magenta",
+          "href": "http://www.tamashell.com/i/shells/chibi/3magenta.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/chibi/4white.jpg"
+        },
+        {
+          "shellName": "Orange",
+          "href": "http://www.tamashell.com/i/shells/chibi/4orange.jpg"
+        },
+        {
+          "shellName": "Bright Pink",
+          "href": "http://www.tamashell.com/i/shells/chibi/4brightpink.jpg"
+        },
+        {
+          "shellName": "Green",
+          "href": "http://www.tamashell.com/i/shells/chibi/4green.jpg"
+        },
+        {
+          "shellName": "Yellow",
+          "href": "http://www.tamashell.com/i/shells/chibi/4yellow.jpg"
+        },
+        {
+          "shellName": "Purple",
+          "href": "http://www.tamashell.com/i/shells/chibi/4purple.jpg"
+        },
+        {
+          "shellName": "Flocked Royal Blue",
+          "href": "http://www.tamashell.com/i/shells/chibi/4flockedroyalblue.jpg"
+        },
+        {
+          "shellName": "Flocked Red",
+          "href": "http://www.tamashell.com/i/shells/chibi/4flockedred.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/20p1/white.jpg"
+        },
+        {
+          "shellName": "Orange",
+          "href": "http://www.tamashell.com/i/shells/20p1/orange.jpg"
+        },
+        {
+          "shellName": "Skeleton",
+          "href": "http://www.tamashell.com/i/shells/20p1/skeleton.jpg"
+        },
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/20p1/blue.jpg"
+        },
+        {
+          "shellName": "Light Blue",
+          "href": "http://www.tamashell.com/i/shells/20p1/aqua.jpg"
+        },
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/20p1/pink.jpg"
+        },
+        {
+          "shellName": "SDCC Purple",
+          "href": "http://www.tamashell.com/i/shells/20p1/sdcc.jpg"
+        },
+        {
+          "shellName": "Purple",
+          "href": "http://www.tamashell.com/i/shells/20p1/purple.jpg"
+        },
+        {
+          "shellName": "White/Black",
+          "href": "http://www.tamashell.com/i/shells/20p1/whiteblack.jpg"
+        },
+        {
+          "shellName": "Pink/Yellow",
+          "href": "http://www.tamashell.com/i/shells/20p1/pinkyellow.jpg"
+        },
+        {
+          "shellName": "Mermaid",
+          "href": "http://www.tamashell.com/i/shells/20p1/mermaid.jpg"
+        },
+        {
+          "shellName": "Red Glitter",
+          "href": "http://www.tamashell.com/i/shells/20p1/redglitter.jpg"
+        },
+        {
+          "shellName": "Striped Tiger",
+          "href": "http://www.tamashell.com/i/shells/20p1/tiger.png"
+        },
+        {
+          "shellName": "Unicorn",
+          "href": "http://www.tamashell.com/i/shells/20p1/unicorn.jpg"
+        },
+        {
+          "shellName": "Sunset",
+          "href": "http://www.tamashell.com/i/shells/20p1/sunset.jpg"
+        },
+        {
+          "shellName": "Majestic",
+          "href": "http://www.tamashell.com/i/shells/20p1/majestic.jpg"
+        },
+        {
+          "shellName": "Neon",
+          "href": "http://www.tamashell.com/i/shells/20p1/neon.jpg"
+        },
+        {
+          "shellName": "Sprinkles",
+          "href": "http://www.tamashell.com/i/shells/20p1/sprinkles.jpg"
+        },
+        {
+          "shellName": "Plaid",
+          "href": "http://www.tamashell.com/i/shells/20p1/plaid.jpg"
+        },
+        {
+          "shellName": "Marble",
+          "href": "http://www.tamashell.com/i/shells/20p1/marble.jpg"
+        },
+        {
+          "shellName": "Majestic",
+          "href": "http://www.tamashell.com/i/shells/20p1/candyswirl.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/20p2/white.jpg"
+        },
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/20p2/blue.jpg"
+        },
+        {
+          "shellName": "Yellow",
+          "href": "http://www.tamashell.com/i/shells/20p2/yellow.jpg"
+        },
+        {
+          "shellName": "Green",
+          "href": "http://www.tamashell.com/i/shells/20p2/green.jpg"
+        },
+        {
+          "shellName": "SDCC Teal",
+          "href": "http://www.tamashell.com/i/shells/20p1/sdcc.jpg"
+        },
+        {
+          "shellName": "Black",
+          "href": "http://www.tamashell.com/i/shells/20p2/black.jpg"
+        },
+        {
+          "shellName": "Green Glitter",
+          "href": "http://www.tamashell.com/i/shells/20p2/greenglitter.jpg"
+        },
+        {
+          "shellName": "Leopard Print",
+          "href": "http://www.tamashell.com/i/shells/20p2/leopardprint.jpg"
+        },
+        {
+          "shellName": "White & Pink",
+          "href": "http://www.tamashell.com/i/shells/20p2/whitepink.jpg"
+        },
+        {
+          "shellName": "Yellow & Blue",
+          "href": "http://www.tamashell.com/i/shells/20p2/yellowblue.jpg"
+        },
+        {
+          "shellName": "Blue & Silver",
+          "href": "http://www.tamashell.com/i/shells/20p2/bluesilver.jpg"
+        },
+        {
+          "shellName": "Colorful Characters",
+          "href": "http://www.tamashell.com/i/shells/20p2/colorfulcharacters.jpg"
+        },
+        {
+          "shellName": "Galaxy",
+          "href": "http://www.tamashell.com/i/shells/20p2/galaxy.jpg"
+        },
+        {
+          "shellName": "Sahara",
+          "href": "http://www.tamashell.com/i/shells/20p2/sahara.jpg"
+        },
+        {
+          "shellName": "Paradise",
+          "href": "http://www.tamashell.com/i/shells/20p2/paradise.jpg"
+        },
+        {
+          "shellName": "Stone",
+          "href": "http://www.tamashell.com/i/shells/20p2/stone.jpg"
+        },
+        {
+          "shellName": "Tie Dye",
+          "href": "http://www.tamashell.com/i/shells/20p2/tiedye.jpg"
+        },
+        {
+          "shellName": "Sky",
+          "href": "http://www.tamashell.com/i/shells/20p2/sky.jpg"
+        },
+        {
+          "shellName": "Spring Stripes",
+          "href": "http://www.tamashell.com/i/shells/20p2/springstripes.jpg"
+        },
+        {
+          "shellName": "Flower Gingham",
+          "href": "http://www.tamashell.com/i/shells/20p2/flowergingham.jpg"
+        }
+      ]
+    },
+    {
+      "Licensed Nanos": [
+        { "shellName": "Usatama", "href": "http://www.tamashell.com/#usatama" },
+        {
+          "shellName": "Gudetama",
+          "href": "http://www.tamashell.com/#gudetama"
+        },
+        { "shellName": "Eevee", "href": "http://www.tamashell.com/#eevee" },
+        { "shellName": "Pac-Man", "href": "http://www.tamashell.com/#pacman" },
+        {
+          "shellName": "Evangelion",
+          "href": "http://www.tamashell.com/#evangelion"
+        },
+        {
+          "shellName": "Demon Slayer",
+          "href": "http://www.tamashell.com/#demonslayer"
+        },
+        {
+          "shellName": "Hello Kitty",
+          "href": "http://www.tamashell.com/#hellokitty"
+        },
+        { "shellName": "Jordy", "href": "http://www.tamashell.com/#jordy" },
+        {
+          "shellName": "Fate/EXTELLATCHI",
+          "href": "http://www.tamashell.com/#extellatchi"
+        },
+        { "shellName": "R2-D2", "href": "http://www.tamashell.com/#r2-d2" },
+        {
+          "shellName": "Disney Twisted Wonderland",
+          "href": "http://www.tamashell.com/#disney"
+        },
+        { "shellName": "LINE B21", "href": "http://www.tamashell.com/#b21" },
+        {
+          "shellName": "Pui Pui Molcar",
+          "href": "http://www.tamashell.com/#pui"
+        },
+        {
+          "shellName": "Pocket Usatama 2017",
+          "href": "http://www.tamashell.com/i/shells/usatama/usatama.jpg"
+        },
+        {
+          "shellName": "Pocket Usatama 2019",
+          "href": "http://www.tamashell.com/i/shells/usatama/usatama2019.png"
+        },
+        {
+          "shellName": "Pocket Usapiyo 2019",
+          "href": "http://www.tamashell.com/i/shells/usatama/usatama2019.png"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/gudetama/white.jpg"
+        },
+        {
+          "shellName": "Yellow",
+          "href": "http://www.tamashell.com/i/shells/gudetama/yellow.jpg"
+        },
+        {
+          "shellName": "Daisuki Eevee",
+          "href": "http://www.tamashell.com/i/shells/licensed/eeveeshells.png"
+        },
+        {
+          "shellName": "Colorful Friends",
+          "href": "http://www.tamashell.com/i/shells/licensed/eeveeshells.png"
+        },
+        {
+          "shellName": "Yellow",
+          "href": "http://www.tamashell.com/i/shells/licensed/pacmany.jpg"
+        },
+        {
+          "shellName": "Black",
+          "href": "http://www.tamashell.com/i/shells/licensed/pacmanb.jpg"
+        },
+        {
+          "shellName": "Prototype",
+          "href": "http://www.tamashell.com/i/shells/evatchi/prototype.jpg"
+        },
+        {
+          "shellName": "Asuka",
+          "href": "http://www.tamashell.com/i/shells/evatchi/asuka.jpg"
+        },
+        {
+          "shellName": "Rei",
+          "href": "http://www.tamashell.com/i/shells/evatchi/rei.jpg"
+        },
+        {
+          "shellName": "Ayana Mirei",
+          "href": "http://www.tamashell.com/i/shells/evatchi/ayanamirei.jpg"
+        },
+        {
+          "shellName": "Mari",
+          "href": "http://www.tamashell.com/i/shells/evatchi/mari.jpg"
+        },
+        {
+          "shellName": "Kaworu",
+          "href": "http://www.tamashell.com/i/shells/evatchi/kaworu.jpg"
+        },
+        {
+          "shellName": "Tanjirotchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/tanjirotchi.jpg"
+        },
+        {
+          "shellName": "Nezukotchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/nezukotchi.jpg"
+        },
+        {
+          "shellName": "Kisatsutaitchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/kisatsutaitchi.jpg"
+        },
+        {
+          "shellName": "Zenitsutchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/zenitsutchi.jpg"
+        },
+        {
+          "shellName": "Inosuketchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/inosuketchi.jpg"
+        },
+        {
+          "shellName": "Kyojurotchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/kyojurotchi.jpg"
+        },
+        {
+          "shellName": "Sanemitchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/sanemitchi.jpg"
+        },
+        {
+          "shellName": "Giyutchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/giyutchi.jpg"
+        },
+        {
+          "shellName": "Mitsuritchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/mitsuritchi.jpg"
+        },
+        {
+          "shellName": "Obanaitchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/obanaitchi.jpg"
+        },
+        {
+          "shellName": "Muichirotchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/muichirotchi.jpg"
+        },
+        {
+          "shellName": "Gyomeitchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/gyomeitchi.jpg"
+        },
+        {
+          "shellName": "Shinobutchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/shinobutchi.jpg"
+        },
+        {
+          "shellName": "Tengentchi",
+          "href": "http://www.tamashell.com/i/shells/demonslayer/tengentchi.jpg"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/licensed/white.jpg"
+        },
+        {
+          "shellName": "Red",
+          "href": "http://www.tamashell.com/i/shells/licensed/red.jpg"
+        },
+        {
+          "shellName": "Jordy",
+          "href": "http://www.tamashell.com/i/shells/licensed/jordy.jpg"
+        },
+        {
+          "shellName": "Extellatchi",
+          "href": "http://www.tamashell.com/i/shells/licensed/extellatchi.jpg"
+        },
+        {
+          "shellName": "R2-D2",
+          "href": "http://www.tamashell.com/i/comingsoon.jpg"
+        },
+        {
+          "shellName": "Heartslabyul",
+          "href": "http://www.tamashell.com/i/shells/disney/heartslabyul.jpg"
+        },
+        {
+          "shellName": "Savanaclaw",
+          "href": "http://www.tamashell.com/i/shells/disney/savanaclaw.jpg"
+        },
+        {
+          "shellName": "Octavinelle",
+          "href": "http://www.tamashell.com/i/shells/disney/octavinelle.jpg"
+        },
+        {
+          "shellName": "Scarabia",
+          "href": "http://www.tamashell.com/i/shells/disney/scarabia.jpg"
+        },
+        {
+          "shellName": "Pomefiore",
+          "href": "http://www.tamashell.com/i/shells/disney/pomefiore.jpg"
+        },
+        {
+          "shellName": "Ignihyde",
+          "href": "http://www.tamashell.com/i/shells/disney/ignihyde.jpg"
+        },
+        {
+          "shellName": "Diasomnia",
+          "href": "http://www.tamashell.com/i/shells/disney/diasomnia.jpg"
+        },
+        {
+          "shellName": "Space Color",
+          "href": "http://www.tamashell.com/i/shells/licensed/spacecolor.jpg"
+        },
+        {
+          "shellName": "Baby Style",
+          "href": "http://www.tamashell.com/i/shells/licensed/babystyle.jpg"
+        },
+        {
+          "shellName": "Orange",
+          "href": "http://www.tamashell.com/i/shells/licensed/puiorange.jpg"
+        },
+        {
+          "shellName": "Cream",
+          "href": "http://www.tamashell.com/i/shells/licensed/puicream.jpg"
+        },
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/licensed/puipink.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi Meets": [
+        {
+          "shellName": "Magical Green",
+          "href": "http://www.tamashell.com/i/shells/meets/green.jpg"
+        },
+        {
+          "shellName": "Magical Purple",
+          "href": "http://www.tamashell.com/i/shells/meets/purple.jpg"
+        },
+        {
+          "shellName": "Magical Pink",
+          "href": "http://www.tamashell.com/i/shells/meets/pinkm.jpg"
+        },
+        {
+          "shellName": "Fairy Tale Blue",
+          "href": "http://www.tamashell.com/i/shells/meets/blue.jpg"
+        },
+        {
+          "shellName": "Fairy Tale Yellow",
+          "href": "http://www.tamashell.com/i/shells/meets/yellow.jpg"
+        },
+        {
+          "shellName": "Fairy Tale Pink",
+          "href": "http://www.tamashell.com/i/shells/meets/pinkf.png"
+        },
+        {
+          "shellName": "Magical White",
+          "href": "http://www.tamashell.com/i/shells/meets/white.png"
+        },
+        {
+          "shellName": "Pastel Purple",
+          "href": "http://www.tamashell.com/i/shells/meets/pastelpurple.jpg"
+        },
+        {
+          "shellName": "Pastel White",
+          "href": "http://www.tamashell.com/i/shells/meets/pastelwhite.jpg"
+        },
+        {
+          "shellName": "Sanrio",
+          "href": "http://www.tamashell.com/i/shells/meets/sanrio.jpg"
+        },
+        {
+          "shellName": "Fastasy Blue",
+          "href": "http://www.tamashell.com/i/shells/meets/fantasyblue.jpg"
+        },
+        {
+          "shellName": "Fantasy Purple",
+          "href": "http://www.tamashell.com/i/shells/meets/fantasypurple.jpg"
+        },
+        {
+          "shellName": "Sweets Pink",
+          "href": "http://www.tamashell.com/i/shells/meets/sweetspink.jpg"
+        },
+        {
+          "shellName": "Sweets Yellow",
+          "href": "http://www.tamashell.com/i/shells/meets/sweetsyellow.jpg"
+        },
+        {
+          "shellName": "Sweets White",
+          "href": "http://www.tamashell.com/i/shells/meets/sweetswhite.png"
+        },
+        {
+          "shellName": "Some Blue",
+          "href": "http://www.tamashell.com/i/shells/meets/someblue.jpg"
+        },
+        {
+          "shellName": "Some Pink",
+          "href": "http://www.tamashell.com/i/shells/meets/somepink.jpg"
+        },
+        {
+          "shellName": "Some Purple",
+          "href": "http://www.tamashell.com/i/shells/meets/somepurple.jpg"
+        },
+        {
+          "shellName": "Some White",
+          "href": "http://www.tamashell.com/i/shells/meets/somewhite.jpg"
+        },
+        {
+          "shellName": "Sanrio Red",
+          "href": "http://www.tamashell.com/i/shells/meets/sanriored.jpg"
+        },
+        {
+          "shellName": "Wonder Garden Blue",
+          "href": "http://www.tamashell.com/i/shells/meets/wgardenblue.jpg"
+        },
+        {
+          "shellName": "Wonder Garden Lavender",
+          "href": "http://www.tamashell.com/i/shells/meets/wgardenlavender.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi Pix": [
+        {
+          "shellName": "Floral",
+          "href": "http://www.tamashell.com/i/shells/pix/floral.jpg"
+        },
+        {
+          "shellName": "Sky",
+          "href": "http://www.tamashell.com/i/shells/pix/sky.jpg"
+        },
+        {
+          "shellName": "Ocean",
+          "href": "http://www.tamashell.com/i/shells/pix/ocean.jpg"
+        },
+        {
+          "shellName": "Nature",
+          "href": "http://www.tamashell.com/i/shells/pix/nature.jpg"
+        }
+      ]
+    },
+    {
+      "Tamagotchi Smart": [
+        {
+          "shellName": "Coral Pink",
+          "href": "http://www.tamashell.com/i/shells/smart/coralpink.jpg"
+        },
+        {
+          "shellName": "Mint Blue",
+          "href": "http://www.tamashell.com/i/shells/smart/mintblue.jpg"
+        },
+        {
+          "shellName": "Anniversary White",
+          "href": "http://www.tamashell.com/i/shells/smart/white.jpg"
+        }
+      ]
+    }
+  ],
+  "Others": [
+    {
+      "Arukotchi": [
+        {
+          "shellName": "Blue",
+          "href": "http://www.tamashell.com/i/shells/arukotchi/aru_b.gif"
+        },
+        {
+          "shellName": "Pink",
+          "href": "http://www.tamashell.com/i/shells/arukotchi/aru_p.gif"
+        },
+        {
+          "shellName": "White",
+          "href": "http://www.tamashell.com/i/shells/arukotchi/aru_w.gif"
+        }
+      ]
+    },
+    {
+      "TamaWalkie": [
+        {
+          "shellName": "UFO",
+          "href": "http://www.tamashell.com/i/shells/tamawalkie/black.png"
+        },
+        {
+          "shellName": "Dancing",
+          "href": "http://www.tamashell.com/i/shells/tamawalkie/blue.png"
+        },
+        {
+          "shellName": "Walking",
+          "href": "http://www.tamashell.com/i/shells/tamawalkie/yellow.png"
+        }
+      ]
+    }
+  ]
+}
