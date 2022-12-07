@@ -8,8 +8,8 @@ function getModels(jsonObject) {
   return axios.get("http://www.tamashell.com/").then((response) => {
     const html = response.data;
     const $ = cheerio.load(html);
+    //vintage title isn't wrapped in <p>
     let category = "Vintage";
-    let skip = true;
     $("#middlemenu")
       .find("p")
       .each((_idx, el) => {
@@ -19,90 +19,99 @@ function getModels(jsonObject) {
             .each((_idx, el) => {
               jsonObject[`${category}`].push({
                 model: $(el).text(),
-                href: $(el).attr("href"),
+                href: $(el).attr("href")
               });
             });
-
-          skip = false;
         } else {
-          if (skip === false) {
-            category = $(el).children("img").attr("alt");
-            //   console.log("new cat: " + category);
-          }
+          //category = Connection, Modern, Others
+          category = $(el).children("img").attr("alt");
         }
-        // console.log(jsonObject);
+        // jsonObject = {Vintage: [{model: 'Tamagotchi P1', href: 'p1.php'}]}
         return jsonObject;
       });
     return jsonObject;
   });
 }
-async function getShellVersions(jsonObject, allModels) {
+
+async function getShellVersions(eachModel) {
   let holdingArray = [];
   let object = {};
   return axios
-    .get("http://www.tamashell.com/" + jsonObject.href)
+    .get("http://www.tamashell.com/" + eachModel.href)
     .then((response) => {
-      // and do this:
-
       const html = response.data;
       const $$ = cheerio.load(html);
 
       $$("#content")
         .find("a")
         .each((_idx, el) => {
+          //FIX HERE MAYBE REFER TO SOMETHING TO GET THE SHELLNAMES?
           if ($$(el).attr("href")) {
             //get text and image link
             let href = $$(el).attr("href");
             let shellName = $$(el).text();
             holdingArray.push({
               shellName: shellName,
-              href: "http://www.tamashell.com/" + href,
+              href: "http://www.tamashell.com/" + href
             });
           }
         });
-
-      object[`${jsonObject.model}`] = holdingArray;
+      //when pushing to eachModel alone, it didn't work - need to be in an emoty object
+      object[`${eachModel.model}`] = holdingArray;
     })
     .then(() => {
+      //{
+      // 'Tamagotchi P1': [
+      //   {
+      //     shellName: 'Black & Red',
+      //     href: 'http://www.tamashell.com/i/shells/p1/black_red.jpg'
+      //   },
+      //   {
+      //     shellName: 'Blue w/ Pink',
+      //     href: 'http://www.tamashell.com/i/shells/p1/blue_pink.jpg'
+      //   },
+      //   {
+      //     shellName: 'Clear Blue',
+      //     href: 'http://www.tamashell.com/i/shells/p1/clearblue.jpg'
+      //   },
+
       return object;
     });
 }
-async function getShellDetails(jsonObject) {
-  //incoming array for each model in the category: Vintage [P1, P2, etc.]
-  // we have an array of objects
 
-  for (let i = 0; i < jsonObject.length; i++) {
-    let allModels = [];
+//so that model details can be push to the right category in the jsonObject
+async function getShellDetails(arrOfModels) {
+  // have to wait until all shell details getting pushed to the model before moving on to the next model
+  for (let i = 0; i < arrOfModels.length; i++) {
+    let allShellVersions = await getShellVersions(arrOfModels[i]);
 
-    // need to get the call and iterated it before knowing we can move on
-    let allShellVersions = await getShellVersions(jsonObject[i], allModels);
-
-    jsonObject[i] = allShellVersions;
+    arrOfModels[i] = allShellVersions;
   }
-
-  return jsonObject;
+  // console.log(jsonObject);
+  return arrOfModels;
 }
 
+//WHAT
 const fetchTitles = async () => {
   try {
     let jsonObject = {
       Vintage: [],
       Connection: [],
       Modern: [],
-      Others: [],
+      Others: []
     };
 
     let blankJsonObject = {
       Vintage: [],
       Connection: [],
       Modern: [],
-      Others: [],
+      Others: []
     };
     let finalJsonObject = {
       Vintage: [],
       Connection: [],
       Modern: [],
-      Others: [],
+      Others: []
     };
     let jsonWithModels = await getModels(jsonObject);
 
@@ -114,12 +123,9 @@ const fetchTitles = async () => {
     let data = JSON.stringify(finalJsonObject);
     fs.writeFileSync("src/tamagotchi-models.json", data);
     return finalJsonObject;
-    // Get the HTML code of the webpage
   } catch (error) {
     throw error;
   }
 };
 
-// Print all models in the console
 fetchTitles().then((titles) => console.log("DONE"));
-// fetchTitles();
