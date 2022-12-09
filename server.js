@@ -1,8 +1,6 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
-const { exit } = require("process");
-const rp = require("request-promise");
 
 function getModels(jsonObject) {
   return axios.get("http://www.tamashell.com/").then((response) => {
@@ -45,8 +43,7 @@ async function getShellVersions(eachModel) {
       $$("#content")
         .find("a")
         .each((_idx, el) => {
-          //FIX HERE MAYBE REFER TO SOMETHING TO GET THE SHELLNAMES?
-          if ($$(el).attr("href")) {
+          if ($$(el).attr("href") && !$$(el).attr("href").includes("#")) {
             //get text and image link
             let href = $$(el).attr("href");
             let shellName = $$(el).text();
@@ -81,27 +78,17 @@ async function getShellVersions(eachModel) {
 
 //so that model details can be push to the right category in the jsonObject
 async function getShellDetails(arrOfModels) {
-  // have to wait until all shell details getting pushed to the model before moving on to the next model
   for (let i = 0; i < arrOfModels.length; i++) {
     let allShellVersions = await getShellVersions(arrOfModels[i]);
 
     arrOfModels[i] = allShellVersions;
   }
-  // console.log(jsonObject);
   return arrOfModels;
 }
 
-//WHAT
 const fetchTitles = async () => {
   try {
     let jsonObject = {
-      Vintage: [],
-      Connection: [],
-      Modern: [],
-      Others: []
-    };
-
-    let blankJsonObject = {
       Vintage: [],
       Connection: [],
       Modern: [],
