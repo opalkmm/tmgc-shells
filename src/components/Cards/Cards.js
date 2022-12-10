@@ -1,5 +1,5 @@
 import React from "react";
-import tamagotchimodels from "../../mock-tamagotchi-models.json";
+import tamagotchimodels from "../../tamagotchi-models.json";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import Grid from "@mui/material/Grid";
@@ -26,22 +26,9 @@ export default function generateCard() {
       "All the color models, starting from Tamagotchi Plus Color release in 2008, up until present",
     Other: "Other releases that do not correspond to the other categories"
   };
-  //   const useStyles = styled({
-  //     root: {
-  //       maxWidth: 310,
-  //       transition: "transform 0.15s ease-in-out"
-  //     },
-  //     cardHovered: {
-  //       transform: "scale3d(1.05, 1.05, 1)"
-  //     }
-  //   });
 
-  //   function ImgMediaCard(props) {
-  //     const classes = useStyles();
-  //     const [state, setState] = setState({
-  //       raised: false,
-  //       shadow: 1
-  //     });
+  const [category, setCategory] = React.useState("Vintage");
+  console.log(tamagotchimodels);
 
   return (
     <div>
@@ -53,33 +40,48 @@ export default function generateCard() {
         sx={{ mt: 5 }}
       >
         {Object.keys(tamagotchimodels).map((key, index) => {
-          {
-            /* console.log(descriptions.key); */
-          }
           return (
-            <Grid
-              item
-              sm={2}
-              key={key}
-              // className={classes.root}
-              // classes={{ root: state.raised ? classes.cardHovered : "" }}
-              // onMouseOver={() => setState({ raised: true, shadow: 3 })}
-              // onMouseOut={() => setState({ raised: false, shadow: 1 })}
-              // raised={state.raised}
-              // zdepth={state.shadow}
-            >
+            <Grid item sm={2} key={key}>
+              <div>
+                <Card
+                  sx={{ height: "100%" }}
+                  onClick={() => {
+                    setCategory(key);
+                    console.log(key);
+                  }}
+                >
+                  <CardContent>
+                    <Typography variant="h5" component="div">
+                      {key}
+                    </Typography>
+                    <Typography sx={{ fontSize: 12 }} color="text.secondary">
+                      {descriptions[key]}
+                    </Typography>
+                  </CardContent>
+                </Card>
+              </div>
+            </Grid>
+          );
+        })}
+      </Grid>
+
+      {/* models */}
+      <Grid
+        container
+        direction="row"
+        justifyContent="space-evenly"
+        alignItems="stretch"
+        sx={{ mt: 5 }}
+      >
+        {Object.keys(tamagotchimodels[`${category}`]).map((key, index) => {
+          return (
+            <Grid item sm={2} key={key}>
               <Card sx={{ height: "100%" }}>
                 <CardContent>
                   <Typography variant="h5" component="div">
                     {key}
                   </Typography>
-                  <Typography sx={{ fontSize: 12 }} color="text.secondary">
-                    {descriptions[key]}
-                  </Typography>
                 </CardContent>
-                {/* <CardActions>
-                  <Button size="small">show more</Button>
-                </CardActions> */}
               </Card>
             </Grid>
           );
