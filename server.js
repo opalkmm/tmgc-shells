@@ -54,7 +54,10 @@ async function getShellVersions(eachModel) {
           }
         });
       //when pushing to eachModel alone, it didn't work - need to be in an emoty object
-      object[`${eachModel.model}`] = holdingArray;
+      // object[`${eachModel.model}`] = holdingArray;
+      object.model = `${eachModel.model}`;
+      object.shells = holdingArray;
+      // console.log(object.model);
     })
     .then(() => {
       //{

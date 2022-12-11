@@ -4,19 +4,23 @@ import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
-// import { styled } from "@mui/styles";
-
-//hover transition to write in the styling function
-// card : {
-//     transition: theme.transitions.create(["background", "background-color"], {
-//       duration: theme.transitions.duration.complex,
-//     }),
-//     "&:hover": {
-//       backgroundColor: "#333",
-//     },
-// }
+import { makeStyles } from "@mui/styles";
+import Button from "@mui/material/Button";
 
 export default function generateCard() {
+  const useStyles = makeStyles({
+    root: {
+      background: "linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)",
+      border: 0,
+      borderRadius: 3,
+      boxShadow: "0 3px 5px 2px rgba(255, 105, 135, .3)",
+      color: "white",
+      height: 48,
+      padding: "0 30px"
+    }
+  });
+
+  const tamagotchimodelsobject = tamagotchimodels;
   const descriptions = {
     Vintage:
       "The original franchise of Tamagotchi virtual pets. The first model was released in 1996 and the final model was released in 1999, making it the shortest-lived Tamagotchi franchise.",
@@ -28,10 +32,11 @@ export default function generateCard() {
   };
 
   const [category, setCategory] = React.useState("Vintage");
-  console.log(tamagotchimodels);
-
+  const [shells, setShells] = React.useState([]);
+  const classes = useStyles();
   return (
     <div>
+      <Button className={classes.root}>Hook</Button>
       <Grid
         container
         direction="row"
@@ -47,7 +52,7 @@ export default function generateCard() {
                   sx={{ height: "100%" }}
                   onClick={() => {
                     setCategory(key);
-                    console.log(key);
+                    setShells([]);
                   }}
                 >
                   <CardContent>
@@ -73,13 +78,48 @@ export default function generateCard() {
         alignItems="stretch"
         sx={{ mt: 5 }}
       >
-        {Object.keys(tamagotchimodels[`${category}`]).map((key, index) => {
+        {/* Object.keys(tamagotchimodelsobject.Vintage[0])[0] */}
+        {Object.keys(tamagotchimodelsobject[`${category}`]).map(
+          (key, index) => {
+            return (
+              <Grid item sm={2} key={key}>
+                <Card
+                  sx={{ height: "100%" }}
+                  onClick={() => {
+                    setShells(
+                      tamagotchimodelsobject[`${category}`][`${key}`].shells
+                    );
+                    //console.log(shells);
+                  }}
+                >
+                  <CardContent>
+                    <Typography variant="h5" component="div">
+                      {tamagotchimodelsobject[`${category}`][`${key}`].model}
+                    </Typography>
+                  </CardContent>
+                </Card>
+              </Grid>
+            );
+          }
+        )}
+      </Grid>
+
+      {/* shains */}
+      <Grid
+        container
+        direction="row"
+        justifyContent="space-evenly"
+        alignItems="stretch"
+        sx={{ mt: 5 }}
+      >
+        {shells.map((key, index) => {
           return (
-            <Grid item sm={2} key={key}>
+            <Grid item sm={2} key={key.shellName}>
               <Card sx={{ height: "100%" }}>
                 <CardContent>
+                  {/* put avatar or image from href here */}
                   <Typography variant="h5" component="div">
-                    {key}
+                    {key.shellName}
                   </Typography>
                 </CardContent>
               </Card>
